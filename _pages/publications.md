@@ -11,7 +11,7 @@ author_profile: true
 
 ## Under review
 
-Rodriguez Padilla, A.M., Oskin, M.E., Brodsky, E.E., Dascher-Cousineau, K., Herrera, V., White, S., The influence of earthquake gates in surface rupture length. Pre-print available here: essopenarchive.org/users/700353/articles/687281-the-influence-of-earthquake-gates-on-surface-rupture-length
+Rodriguez Padilla, A.M., Oskin, M.E., Brodsky, E.E., Dascher-Cousineau, K., Herrera, V., White, S., The influence of earthquake gates in surface rupture length. Pre-print available [here](essopenarchive.org/users/700353/articles/687281-the-influence-of-earthquake-gates-on-surface-rupture-length)
 
 ## Published
 
