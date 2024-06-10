@@ -32,5 +32,5 @@ Rodriguez Padilla, A.M., Oskin, M.E., Brodsky, E.E., Dascher-Cousineau, K., Herr
 ​​​3. Rodriguez Padilla, A.M., Oskin, M. E., Rockwell, T. K., Delusina, I., and Singleton, D. M., Joint Earthquake Ruptures of the San Andreas and San Jacinto Faults, California, USA. Geology 2022; 50 (4): 387–391. doi: https://doi.org/10.1130/G49415.1
 
 2. Rodriguez Padilla, A.M., Oskin, M.E., Milliner, C.W.D., and Plesch, A., Accrual of widespread rock damage from the 2019 Ridgecrest earthquakes. Nat. Geosci. 15, 222–226 (2022). https://doi.org/10.1038/s41561-021-00888-w
-
+  
 ​​1. Rodriguez Padilla, A. M., Quintana, M. A., Prado, R. M., Aguilar, B. J., Shea, T. A., Oskin, M. E., & Garcia, L. (2022). Near‐Field High‐Resolution Maps of the Ridgecrest Earthquakes from Aerial Imagery. Seismological Research Letters, 93(1), 494-499.doi: https://doi.org/10.1785/0220210234
