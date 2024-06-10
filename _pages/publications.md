@@ -15,11 +15,12 @@ Rodriguez Padilla, A.M., Oskin, M.E., Brodsky, E.E., Dascher-Cousineau, K., Herr
 
 ## 2024
 
-8. Liu-Zeng, J., Liu, J., Liu, X., Milliner, C.W., Avouac, J.P., Rodriguez Padilla, A. M., Xu, S., Yao, W., Klinger, Y., Han, L., Shao, Y., Yan, X., Aati, S., Shao, Z.,. Multifault rupture of the Mw 7.4 Maduo (China) earthquake reveals fault growth toward an stress-favored orientation.​ In press in AGU Advances.
+<ol reversed>
+  <li> Liu-Zeng, J., Liu, J., Liu, X., Milliner, C.W., Avouac, J.P., Rodriguez Padilla, A. M., Xu, S., Yao, W., Klinger, Y., Han, L., Shao, Y., Yan, X., Aati, S., Shao, Z.,. Multifault rupture of the Mw 7.4 Maduo (China) earthquake reveals fault growth toward an stress-favored orientation.​ In press in AGU Advances. </li>
+  <li> Yao, W., Liu-Zeng, J., Shi, X., Wang, Z., Padilla, A. R., Qin, K., ... & Gao, Y. (2024). Rupture branching, propagation, and termination at the eastern end of the 2021 Mw 7.4 Maduo earthquake, northern Tibetan plateau. Tectonophysics, 230262. </li>
+  <li>  Young, E. K., Oskin, M. E., & Rodriguez Padilla, A. M. (2024). Reproducibility of Remote Mapping of the 2019 Ridgecrest Earthquake Surface Ruptures. Seismological Research Letters, 95(1), 288-298. </li>
+</ol>
 
-7. Yao, W., Liu-Zeng, J., Shi, X., Wang, Z., Padilla, A. R., Qin, K., ... & Gao, Y. (2024). Rupture branching, propagation, and termination at the eastern end of the 2021 Mw 7.4 Maduo earthquake, northern Tibetan plateau. Tectonophysics, 230262.
-
-6. Young, E. K., Oskin, M. E., & Rodriguez Padilla, A. M. (2024). Reproducibility of Remote Mapping of the 2019 Ridgecrest Earthquake Surface Ruptures. Seismological Research Letters, 95(1), 288-298.
 
 ## 2023
 
