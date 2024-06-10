@@ -20,11 +20,13 @@ Rodriguez Padilla, A.M., Oskin, M.E., Brodsky, E.E., Dascher-Cousineau, K., Herr
   <li> Yao, W., Liu-Zeng, J., Shi, X., Wang, Z., Padilla, A. R., Qin, K., ... & Gao, Y. (2024). Rupture branching, propagation, and termination at the eastern end of the 2021 Mw 7.4 Maduo earthquake, northern Tibetan plateau. Tectonophysics, 230262. </li>
   <li>  Young, E. K., Oskin, M. E., & Rodriguez Padilla, A. M. (2024). Reproducibility of Remote Mapping of the 2019 Ridgecrest Earthquake Surface Ruptures. Seismological Research Letters, 95(1), 288-298. </li>
 
-  ## 2023
+  
+## 2023
 
   <li> Rodriguez Padilla, A.M., and Oskin, M. E., Displacement Hazard from Distributed Ruptures in Strike‐Slip Earthquakes. Bulletin of the Seismological Society of America, 113(6), 2730-2745. </li>  
 
-  ## 2022
+
+ ## 2022
 
   <li> Benavente, C., Palomino, A., Wimpenny, S., Garcia, B., Rosell, L., Aguirre, E., Machare, J., Rodriguez Padilla, A.M., Hall, S.R., Paleoseismic Evidence of the 1715 CE Earthquake on the Purgatorio Fault in Southern Peru: Implications for Seismic Hazard in Subduction Zones. Tectonophysics, 229355. https://doi.org/10.1016/j.tecto.2022.229355 </li>  
   <li>  Rodriguez Padilla, A.M., Oskin, M. E., Rockwell, T. K., Delusina, I., and Singleton, D. M., Joint Earthquake Ruptures of the San Andreas and San Jacinto Faults, California, USA. Geology 2022; 50 (4): 387–391. doi: https://doi.org/10.1130/G49415.1 </li>  
