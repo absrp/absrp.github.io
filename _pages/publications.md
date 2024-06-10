@@ -13,7 +13,7 @@ author_profile: true
 
 Rodriguez Padilla, A.M., Oskin, M.E., Brodsky, E.E., Dascher-Cousineau, K., Herrera, V., White, S., The influence of earthquake gates in surface rupture length. Pre-print available [here](essopenarchive.org/users/700353/articles/687281-the-influence-of-earthquake-gates-on-surface-rupture-length)
 
-## Published
+## In press
 
 <ol reversed>
   <li> Liu-Zeng, J., Liu, J., Liu, X., Milliner, C.W., Avouac, J.P., Rodriguez Padilla, A. M., Xu, S., Yao, W., Klinger, Y., Han, L., Shao, Y., Yan, X., Aati, S., Shao, Z.,. Multifault rupture of the Mw 7.4 Maduo (China) earthquake reveals fault growth toward an stress-favored orientation.​ In press in AGU Advances. </li>
