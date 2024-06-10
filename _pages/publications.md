@@ -22,6 +22,7 @@ Rodriguez Padilla, A.M., Oskin, M.E., Brodsky, E.E., Dascher-Cousineau, K., Herr
 </ol>
 
 
+
 ## 2023
 
 ​​​5. Rodriguez Padilla, A.M., and Oskin, M. E., Displacement Hazard from Distributed Ruptures in Strike‐Slip Earthquakes. Bulletin of the Seismological Society of America, 113(6), 2730-2745.
