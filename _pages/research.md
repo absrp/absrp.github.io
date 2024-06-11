@@ -26,7 +26,7 @@ Zones of geometrical complexity can act as earthquake gates, or conditional barr
 
 <center>
  ![](1km.gif)
-</center>
+</center> 
 
 <p align="justify">
 
