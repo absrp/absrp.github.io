@@ -29,15 +29,15 @@ Zones of geometrical complexity can act as earthquake gates, or conditional barr
 <img width="500" alt="image" src="https://github.com/absrp/albamrodriguez.github.io/assets/52015046/21495644-0280-4503-bd9f-9d70fe57f6b0">
 </center>
 
-<style>body {text-align: justify}
+<p align="justify">
 
 Paleoseismic evidence from fault systems across the world suggests that fault synchronization and event clustering are ubiquitous behaviors in the geologic record. We model a two-fault system in quasidynamic earthquake simulator QuakeDFN to examine the  interevent time and magnitude variability that emerges from the elastic interactions between the faults, controlled by the fault spacing, and from the stress heterogeneity on each fault, controlled by the nucleation size.
+</p>
 
 **Collaborators:** Jean-Philippe Avouac, K.J. Im, Alexis Saez, Hojjat Kaveh (Caltech)
 
 **Funding:** O.K. Earl postdoctoral fellowship (Caltech)
  
-</style>
 
 # The distribution of inelastic strain during earthquakes and over multiple earthquake cycles
 
@@ -45,17 +45,17 @@ Paleoseismic evidence from fault systems across the world suggests that fault sy
 <img width="500" alt="image" src="https://github.com/absrp/albamrodriguez.github.io/assets/52015046/bec1a5fa-eceb-4205-b25f-1130eee7cec0">
 </center>
 
-<style>body {text-align: justify}
+<p align="justify">
 
 Inelastic deformation constitutes a permanent sink of strain energy during earthquakes, modifies the elastic properties of the shallow crust, threatens lifelines, and amplifies ground shaking during earthquakes. We use field observations and remote sensing (often drone images) to characterize the spatial distribution of fracturing and folding around faults during individual earthquakes and over multiple earthquake cycles to investigate the mechanisms that accommodate permanent strains within the rock volume and the evolution of the mechanical properties of that volume. We have applied this to individual earthquakes (e.g., Ridgecrest 2019, Landers 1992), and to fault zones that record a cumulative record of normal faulting spanning millenia (e.g., the Volcanic Tableland in Bishop or the Modoc Plateau in northern California). 
 
-
+</p>
+ 
 **Collaborators:** Mike Oskin (UC Davis), Chris Milliner (Caltech), Andreas Plesch (Harvard), SCEC SOURCES interns: Mercedes Quintana, Brian Castillo, Ruth Prado, Tom Shea, UC Davis undergraduate: Leslie Garcia
 
 **Funding:** SCEC, NASA
 
 **Publications:** Rodriguez Padilla et al. (2022a, *SRL*),  Rodriguez Padilla et al. (2022b, *Nature Geoscience*)
-</style>
 
  
 # Probabilistic displacement hazard assessment for strike-slip faults
@@ -64,9 +64,11 @@ Inelastic deformation constitutes a permanent sink of strain energy during earth
 <img width="500" alt="image" src="https://github.com/absrp/albamrodriguez.github.io/assets/52015046/3e4ade0f-2184-4cc2-bbb6-32bb7744062b">
 </center>
 
-<style>body {text-align: justify}
+<p align="justify">
 
 Fracturing and surface displacements during earthquakes threaten infrastructure and lifelines. We have been working to expand probabilistic displacement hazard models to account for the hazard posed by distributed fracturing, such as that observed in immature earthquakes in the Eastern California Shear Zone. Because surface processes erase the record of faulting, limiting the development and application of hazard models to fault zones that have not hosted a recent earthquake, we also work to quantify the loss of information for mapping fault zones as a function of the time elapsed since the most recent earthquake (see collaborations section for more info on this work, led by PhD candidate Mindy Zuckerman). 
+
+</p>
 
 **Collaborators:** Mike Oskin (UC Davis), Ramon Arrowsmith (ASU), graduate student: Mindy Zuckerman (ASU)
 
@@ -74,42 +76,43 @@ Fracturing and surface displacements during earthquakes threaten infrastructure 
 
 **Publications:** Rodriguez Padilla and Oskin (2023, *BSSA*)
 
-</style>
-
 # Collaborations
 Get in touch via email if you would like to collaborate! 
 
 ## The erasure of earthquakes from the landscape: implications for PFDHA
 
-<style>body {text-align: justify}
+<p align="justify">
 
 Probabilistic fault displacement hazard analysis (PFDHA) relies on knowledge of the magnitude and distribution of coseismic surface displacements. For old events, this information hides in the landscape, modified by the action of surface processes which begin to reshape the record immediately post-earthquake so that the time elapsed since the most recent event, and the conditions under which these surface processes operate will dictate the information available for mapping a fault from the modern landscape. In this work led by PhD candidate Mindy Zuckerman (ASU), we apply a suite of 2D surface process models to high-resolution digital elevation models from environments in southern California with different time elapsed since a well-constrained most recent earthquake to quantify the decrease of information available for mapping as a function of time since the event. 
+</p>
 
 **Collaborators:** Ramon Arrowsmith (ASU), Mindy Zuckerman (ASU)
 
 **Funding:** NEHRP
-</style>
+
 
 ## The distribution of surface strain in the 2021 Maduo earthquake (China)
 
-<style>body {text-align: justify}
+<p align="justify">
 
 In this work led by colleagues at the China Earthquake Administration, we use dense, high-resolution geologic and geodetic data from the 2021 Maduo earthquake in the Tibetan Plateau to investigate the effect of fault maturity and stress orientation, and rupture branching, on the mechanics of the event.
+</p>
+
 
 **Collaborators:** Jing Liu (China Earthquake Administration) and Wenqian Yao (IPGP)
 
 **Publications:** Liu-Zheng et al. (2023, *GRL*), Yao et al. (2024, *Tectonophysics*)
 
- </style>
   
 ## The paleoseismic history of the Incapuquio fault system in the Peruvian forearc
 
-<style>body {text-align: justify}
+<p align="justify">
 
 The Incapuquio Fault System in southern Peru accommodates some of the Naza-South America convergence and produces surface rupturing earthquakes that threaten nearby populations. A group led by Dr. Carlos Benavente at The Instituto Geológico, Minero y Metalúrgico (INGEMMET) works to understand the mechanics and paleoseismic history of the different faults within the Incapuquio system. I participated in field efforts during my undergraduate thesis at College of the Atlantic, under the supervision of Dr. Sarah Hall. 
+</p>
 
 **Collaborators:** Carlos Benavente (INGEMMET), Sarah Hall (College of the Atlantic)
 
 **Publications:** Benavente et al. (2022, *Tectonophysics*)
 
-   </style>
+
