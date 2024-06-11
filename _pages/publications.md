@@ -7,9 +7,11 @@ author_profile: true
 
  [My google scholar page](https://scholar.google.com/citations?user=eq-YN5sAAAAJ&hl=en)
 
+⊛ denotes mentored undergraduate student
+
 ## Under review
 
-Rodriguez Padilla, A.M., Oskin, M.E., Brodsky, E.E., Dascher-Cousineau, K., Herrera, V., White, S., The influence of earthquake gates in surface rupture length. Pre-print available [here](essopenarchive.org/users/700353/articles/687281-the-influence-of-earthquake-gates-on-surface-rupture-length)
+Rodriguez Padilla, A.M., Oskin, M.E., Brodsky, E.E., Dascher-Cousineau, K., Herrera, V.⊛, White, S.⊛, The influence of earthquake gates in surface rupture length. Pre-print available [here](essopenarchive.org/users/700353/articles/687281-the-influence-of-earthquake-gates-on-surface-rupture-length)
 
 ## In press
 
@@ -21,7 +23,7 @@ Rodriguez Padilla, A.M., Oskin, M.E., Brodsky, E.E., Dascher-Cousineau, K., Herr
   <li> Benavente, C., Palomino, A., Wimpenny, S., Garcia, B., Rosell, L., Aguirre, E., Machare, J., Rodriguez Padilla, A.M., Hall, S.R., Paleoseismic Evidence of the 1715 CE Earthquake on the Purgatorio Fault in Southern Peru: Implications for Seismic Hazard in Subduction Zones. Tectonophysics, 229355. https://doi.org/10.1016/j.tecto.2022.229355 </li>  
   <li>  Rodriguez Padilla, A.M., Oskin, M. E., Rockwell, T. K., Delusina, I., and Singleton, D. M., Joint Earthquake Ruptures of the San Andreas and San Jacinto Faults, California, USA. Geology 2022; 50 (4): 387–391. doi: https://doi.org/10.1130/G49415.1 </li>  
   <li> Rodriguez Padilla, A.M., Oskin, M.E., Milliner, C.W.D., and Plesch, A., Accrual of widespread rock damage from the 2019 Ridgecrest earthquakes. Nat. Geosci. 15, 222–226 (2022). https://doi.org/10.1038/s41561-021-00888-w </li>  
-  <li> Rodriguez Padilla, A. M., Quintana, M. A., Prado, R. M., Aguilar, B. J., Shea, T. A., Oskin, M. E., & Garcia, L. (2022). Near‐Field High‐Resolution Maps of the Ridgecrest Earthquakes from Aerial Imagery. Seismological Research Letters, 93(1), 494-499.doi: https://doi.org/10.1785/0220210234 </li>  
+  <li> Rodriguez Padilla, A. M., Quintana, M. A.⊛, Prado, R. M.⊛, Aguilar, B. J.⊛, Shea⊛, T. A.⊛, Oskin, M. E., & Garcia, L.⊛ (2022). Near‐Field High‐Resolution Maps of the Ridgecrest Earthquakes from Aerial Imagery. Seismological Research Letters, 93(1), 494-499.doi: https://doi.org/10.1785/0220210234 </li>  
 
 </ol>
 
