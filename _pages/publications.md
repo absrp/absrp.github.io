@@ -26,3 +26,5 @@ Rodriguez Padilla, A.M., Oskin, M.E., Brodsky, E.E., Dascher-Cousineau, K., Herr
   <li> Rodriguez Padilla, A. M., Quintana, M. A., Prado, R. M., Aguilar, B. J., Shea, T. A., Oskin, M. E., & Garcia, L. (2022). Near‐Field High‐Resolution Maps of the Ridgecrest Earthquakes from Aerial Imagery. Seismological Research Letters, 93(1), 494-499.doi: https://doi.org/10.1785/0220210234 </li>  
 
 </ol>
+
+  </style>
