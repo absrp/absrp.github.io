@@ -40,6 +40,7 @@ Paleoseismic evidence from fault systems across the world suggests that fault sy
 </style>
 
 # The distribution of inelastic strain during earthquakes and over multiple earthquake cycles
+
 <center>
 <img width="500" alt="image" src="https://github.com/absrp/albamrodriguez.github.io/assets/52015046/bec1a5fa-eceb-4205-b25f-1130eee7cec0">
 </center>
@@ -56,8 +57,10 @@ Inelastic deformation constitutes a permanent sink of strain energy during earth
 **Publications:** Rodriguez Padilla et al. (2022a, *SRL*),  Rodriguez Padilla et al. (2022b, *Nature Geoscience*)
 </style>
 
-<center>
+ 
 # Probabilistic displacement hazard assessment for strike-slip faults
+
+<center>
 <img width="500" alt="image" src="https://github.com/absrp/albamrodriguez.github.io/assets/52015046/3e4ade0f-2184-4cc2-bbb6-32bb7744062b">
 </center>
 
