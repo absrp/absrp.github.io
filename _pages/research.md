@@ -9,13 +9,11 @@ author_profile: true
 
 <center>
 <img width="500" alt="image" src="https://github.com/absrp/albamrodriguez.github.io/assets/52015046/86b065ab-b8a6-4c89-8c64-15f79301ffc1">
-text</center>
+</center>
 
 <style>body {text-align: justify}
 
 Zones of geometrical complexity can act as earthquake gates, or conditional barriers to rupture propagation, where material properties, rupture dynamics, and the availability and geometry of neighboring faults control the probability of throughgoing rupture. We use a combination of paleoseismic trenching, numerical modeling, and analysis of historical surface rupture maps to understand how frequent zones of geometrical complexity are breached, allowing a propagating rupture to continue growing, and the mechanics of this process. We study both the general mechanics of earthquake gates, using global surface rupture maps, and the mechanics and frequency of specific earthquake gates, such as the Cajon Pass step-over in Southern California.
-
-</style>
 
 **Collaborators:** Mike Oskin (UC Davis), Tom Rockwell (SDSU), Irina Delusina (UC Davis), Drake Singleton (USGS), Emily Brodsky (UCSC), Kelian Dascher-Cousineau (UC Berkeley), SCEC SOURCES interns: Vanessa Herrera (SDSU), Sophia White (UCSC)
 
@@ -23,6 +21,8 @@ Zones of geometrical complexity can act as earthquake gates, or conditional barr
 
 **Publications:** Rodriguez Padilla et al. (2022, *Geology*), Rodriguez Padilla et al. (in review) 
 
+ </style>
+ 
 # Fault synchronization and earthquake clustering over millenial timescales
 
 <center>
@@ -36,10 +36,13 @@ Paleoseismic evidence from fault systems across the world suggests that fault sy
 **Collaborators:** Jean-Philippe Avouac, K.J. Im, Alexis Saez, Hojjat Kaveh (Caltech)
 
 **Funding:** O.K. Earl postdoctoral fellowship (Caltech)
+ 
 </style>
 
 # The distribution of inelastic strain during earthquakes and over multiple earthquake cycles
+<center>
 <img width="500" alt="image" src="https://github.com/absrp/albamrodriguez.github.io/assets/52015046/bec1a5fa-eceb-4205-b25f-1130eee7cec0">
+</center>
 
 <style>body {text-align: justify}
 
@@ -53,8 +56,10 @@ Inelastic deformation constitutes a permanent sink of strain energy during earth
 **Publications:** Rodriguez Padilla et al. (2022a, *SRL*),  Rodriguez Padilla et al. (2022b, *Nature Geoscience*)
 </style>
 
+<center>
 # Probabilistic displacement hazard assessment for strike-slip faults
 <img width="500" alt="image" src="https://github.com/absrp/albamrodriguez.github.io/assets/52015046/3e4ade0f-2184-4cc2-bbb6-32bb7744062b">
+</center>
 
 <style>body {text-align: justify}
 
