@@ -10,7 +10,7 @@ redirect_from:
 Complete CV (updated June 10, 2024): [CV (PDF)](https://github.com/user-attachments/files/15780236/CV_RodriguezPadilla.pdf)
 
 {% include base_path %}
-Professional appointments
+Professional appointments 
 ======
 * 2025-: Assistant Professor of Geoscience
   * Utah State University
