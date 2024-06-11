@@ -12,7 +12,7 @@ title                    : "Alba M. Rodriguez Padilla"
 title_separator          : "-"
 name                     : &name "Alba M. Rodriguez Padilla"
 description              : &description "O.K. Earl Postdoctoral Fellow, California Institute of Technology"
-url                      : https://absrp.github.io/albamrodriguez.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://absrp.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
