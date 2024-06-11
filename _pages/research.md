@@ -21,26 +21,26 @@ Publications: Rodriguez Padilla et al. (2022, *Geology*), Rodriguez Padilla et a
   
 <img width="704" alt="image" src="https://github.com/absrp/albamrodriguez.github.io/assets/52015046/21495644-0280-4503-bd9f-9d70fe57f6b0">
 
-<div align="wrap"> Paleoseismic evidence from fault systems across the world suggests that fault synchronization and event clustering are ubiquitous behaviors in the geologic record. We model a two-fault system in quasidynamic earthquake simulator QuakeDFN to examine the  interevent time and magnitude variability that emerges from the elastic interactions between the faults, controlled by the fault spacing, and from the stress heterogeneity on each fault, controlled by the nucleation size
+<div align="wrap"> Paleoseismic evidence from fault systems across the world suggests that fault synchronization and event clustering are ubiquitous behaviors in the geologic record. We model a two-fault system in quasidynamic earthquake simulator QuakeDFN to examine the  interevent time and magnitude variability that emerges from the elastic interactions between the faults, controlled by the fault spacing, and from the stress heterogeneity on each fault, controlled by the nucleation size.
 
-Collaborators: Jean-Philippe Avouac, K.J. Im, Alexis Saez, Hojjat Kaveh (Caltech)
-Funding: O.K. Earl postdoctoral fellowship (Caltech)
+**Collaborators:** Jean-Philippe Avouac, K.J. Im, Alexis Saez, Hojjat Kaveh (Caltech)
+**Funding:** O.K. Earl postdoctoral fellowship (Caltech)
 
 ### The distribution of inelastic strain during earthquakes and over multiple earthquake cycles
 <img width="515" alt="image" src="https://github.com/absrp/albamrodriguez.github.io/assets/52015046/bec1a5fa-eceb-4205-b25f-1130eee7cec0">
 
 <div align="wrap">
-Funding: SCEC, NASA
-Collaborators: Mike Oskin (UC Davis), Chris Milliner (Caltech), Andreas Plesch (Harvard), SCEC SOURCES interns: Mercedes Quintana, Brian Castillo, Ruth Prado, Tom Shea, UC Davis undergraduate: Leslie Garcia
+**Funding:** SCEC, NASA
+**Collaborators:** Mike Oskin (UC Davis), Chris Milliner (Caltech), Andreas Plesch (Harvard), SCEC SOURCES interns: Mercedes Quintana, Brian Castillo, Ruth Prado, Tom Shea, UC Davis undergraduate: Leslie Garcia
 Publications: Rodriguez Padilla et al. (2022a, *SRL*),  Rodriguez Padilla et al. (2022b, *Nature Geoscience*)
 
 ### Probabilistic displacement hazard assessment for strike-slip faults
 <img width="520" alt="image" src="https://github.com/absrp/albamrodriguez.github.io/assets/52015046/3e4ade0f-2184-4cc2-bbb6-32bb7744062b">
 
 <div align="wrap"> 
-Funding: PG&E, NEHRP
-Collaborators: Mike Oskin (UC Davis), Ramon Arrowsmith (ASU), graduate student: Mindy Zuckerman (ASU)
-Publications: Rodriguez Padilla and Oskin (2023, *BSSA*)
+**Funding:** PG&E, NEHRP
+**Collaborators:** Mike Oskin (UC Davis), Ramon Arrowsmith (ASU), graduate student: Mindy Zuckerman (ASU)
+**Publications:** Rodriguez Padilla and Oskin (2023, *BSSA*)
 
 ### Collaborations
 Get in touch via email if you would like to collaborate! 
@@ -48,12 +48,12 @@ Get in touch via email if you would like to collaborate!
 ##### The distribution of surface strain in the 2021 Maduo earthquake (China)
 In this work led by colleagues at the China Earthquake Administration, we use dense, high-resolution geologic and geodetic data from the 2021 Maduo earthquake in the Tibetan Plateau to investigate the effect of fault maturity and stress orientation, and rupture branching, on the mechanics of the event.
 
-Collaborators: Jing Liu (China Earthquake Administration) and Wenqian Yao (IPGP)
-Publications: Liu-Zheng et al. (2023, *GRL*), Yao et al. (2024, *Tectonophysics*)
+**Collaborators:** Jing Liu (China Earthquake Administration) and Wenqian Yao (IPGP)
+**Publications:** Liu-Zheng et al. (2023, *GRL*), Yao et al. (2024, *Tectonophysics*)
 
 ##### The paleoseismic history of the Incapuquio fault system in the Peruvian forearc
 The Incapuquio Fault System in southern Peru accommodates some of the Naza-South America convergence and produces surface rupturing earthquakes that threaten nearby populations. A group led by Dr. Carlos Benavente at The Instituto Geológico, Minero y Metalúrgico (INGEMMET) works to understand the mechanics and paleoseismic history of the different faults within the Incapuquio system. I participated in field efforts during my undergraduate thesis at College of the Atlantic, under the supervision of Dr. Sarah Hall. 
 
-Collaborators: Carlos Benavente (INGEMMET), Sarah Hall (College of the Atlantic)
-Publications: Benavente et al. (2022, *Tectonophysics*)
+**Collaborators:** Carlos Benavente (INGEMMET), Sarah Hall (College of the Atlantic)
+**Publications:** Benavente et al. (2022, *Tectonophysics*)
 
