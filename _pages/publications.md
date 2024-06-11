@@ -4,6 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
 <style>body {align: justify}
 
 The most up to date list of my publications is on [my google scholar page](https://scholar.google.com/citations?user=eq-YN5sAAAAJ&hl=en)
