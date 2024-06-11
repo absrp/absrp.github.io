@@ -25,7 +25,7 @@ Zones of geometrical complexity can act as earthquake gates, or conditional barr
 # Fault synchronization and earthquake clustering over millenial timescales
 
 <center>
-<img width="500" alt="image" src="https://github.com/absrp/albamrodriguez.github.io/assets/52015046/21495644-0280-4503-bd9f-9d70fe57f6b0">
+ ![](1km.gif)
 </center>
 
 <p align="justify">
@@ -46,7 +46,6 @@ Paleoseismic evidence from fault systems across the world suggests that fault sy
 <p align="justify">
 
 Inelastic deformation constitutes a permanent sink of strain energy during earthquakes, modifies the elastic properties of the shallow crust, threatens lifelines, and amplifies ground shaking during earthquakes. We use field observations and remote sensing (often drone images) to characterize the spatial distribution of fracturing and folding around faults during individual earthquakes and over multiple earthquake cycles to investigate the mechanisms that accommodate permanent strains within the rock volume and the evolution of the mechanical properties of that volume. We have applied this to individual earthquakes (e.g., Ridgecrest 2019, Landers 1992), and to fault zones that record a cumulative record of normal faulting spanning millenia (e.g., the Volcanic Tableland in Bishop or the Modoc Plateau in northern California). 
-
 
  
 **Collaborators:** Mike Oskin (UC Davis), Chris Milliner (Caltech), Andreas Plesch (Harvard), SCEC SOURCES interns: Mercedes Quintana, Brian Castillo, Ruth Prado, Tom Shea, UC Davis undergraduate: Leslie Garcia
