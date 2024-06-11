@@ -96,7 +96,7 @@ In this work led by colleagues at the China Earthquake Administration, we use de
 
 **Collaborators:** Jing Liu (China Earthquake Administration) and Wenqian Yao (IPGP)
 
-**Publications:** Liu-Zheng et al. (2023, *GRL*), Yao et al. (2024, *Tectonophysics*)
+**Publications:** Liu-Zeng et al. (2023, *GRL*), Yao et al. (2024, *Tectonophysics*)
 
   
 ## The paleoseismic history of the Incapuquio fault system in the Peruvian forearc
