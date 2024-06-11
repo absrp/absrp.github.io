@@ -15,3 +15,7 @@ Welcome! I am the O.K. Earl postdoctoral fellow in the Division of Geological an
 You can learn more about my research on the research tab. I am also passionate about mentoring undergraduates in research and have done so through UC Davis, the McNair program, and the SCEC SOURCES program.
 
 I will be starting a faculty position in the Department of Geoscience at Utah State University in January 2025. I am recruiting Masters and PhD students for a variety of projects, get in touch if you are interested. You can email me at alba@caltech.edu or amrodriguezpadilla@gmail.com
+
+
+<img width="1141" alt="image" src="https://github.com/absrp/albamrodriguez.github.io/assets/52015046/84a62990-196b-4156-9be6-10dce4c3f664">
+View of a normal fault in the Volcanic Tableland, Bishop (CA).
