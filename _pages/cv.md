@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+Complete CV (updated June 10, 2024): [CV (PDF)](https://github.com/user-attachments/files/15780236/CV_RodriguezPadilla.pdf)
+
 {% include base_path %}
 Professional appointments
 ======
@@ -27,4 +29,3 @@ Education
   * Supervisor: Dr. Sarah Hall
 
 
-Complete CV (updated June 10, 2024): [CV (PDF)](https://github.com/user-attachments/files/15780236/CV_RodriguezPadilla.pdf)
