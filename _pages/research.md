@@ -6,7 +6,9 @@ author_profile: true
 ---
 
 ### The mechanics and frequency of multi-fault earthquakes
-<img width="714" alt="image" src="https://github.com/absrp/albamrodriguez.github.io/assets/52015046/fe8a5a9e-ba29-47e1-a7c9-3c5df8379474">
+
+<img width="243" alt="image" src="https://github.com/absrp/albamrodriguez.github.io/assets/52015046/de236541-cbe4-44cf-b54f-6042c17c02b3">
+
 Zones of geometrical complexity can act as earthquake gates, or conditional barriers to rupture propagation, where material properties, rupture dynamics, and the availability and geometry of neighboring faults control the probability of throughgoing rupture. We use a combination of paleoseismic trenching, numerical modeling, and analysis of historical surface rupture maps to understand how frequent zones of geometrical complexity are breached, allowing a propagating rupture to continue growing, and the mechanics of this process.
 
 Funding: SCEC, NASA
