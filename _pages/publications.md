@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-The most up to date list of my publications is on [my google scholar page](https://scholar.google.com/citations?user=eq-YN5sAAAAJ&hl=en)
+ [My google scholar page](https://scholar.google.com/citations?user=eq-YN5sAAAAJ&hl=en)
 
 ## Under review
 
