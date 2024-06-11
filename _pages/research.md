@@ -28,6 +28,7 @@ Zones of geometrical complexity can act as earthquake gates, or conditional barr
 Paleoseismic evidence from fault systems across the world suggests that fault synchronization and event clustering are ubiquitous behaviors in the geologic record. We model a two-fault system in quasidynamic earthquake simulator QuakeDFN to examine the  interevent time and magnitude variability that emerges from the elastic interactions between the faults, controlled by the fault spacing, and from the stress heterogeneity on each fault, controlled by the nucleation size.
 
 **Collaborators:** Jean-Philippe Avouac, K.J. Im, Alexis Saez, Hojjat Kaveh (Caltech)
+
 **Funding:** O.K. Earl postdoctoral fellowship (Caltech)
 
 ## The distribution of inelastic strain during earthquakes and over multiple earthquake cycles
