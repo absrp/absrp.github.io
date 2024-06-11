@@ -7,7 +7,9 @@ author_profile: true
 
 ## The mechanics and frequency of rupture propagation through earthquake gates
 
+<center>
 <img width="500" alt="image" src="https://github.com/absrp/albamrodriguez.github.io/assets/52015046/86b065ab-b8a6-4c89-8c64-15f79301ffc1">
+text</center>
 
 Zones of geometrical complexity can act as earthquake gates, or conditional barriers to rupture propagation, where material properties, rupture dynamics, and the availability and geometry of neighboring faults control the probability of throughgoing rupture. We use a combination of paleoseismic trenching, numerical modeling, and analysis of historical surface rupture maps to understand how frequent zones of geometrical complexity are breached, allowing a propagating rupture to continue growing, and the mechanics of this process. We study both the general mechanics of earthquake gates, using global surface rupture maps, and the mechanics and frequency of specific earthquake gates, such as the Cajon Pass step-over in Southern California.
 
@@ -18,9 +20,11 @@ Zones of geometrical complexity can act as earthquake gates, or conditional barr
 **Publications:** Rodriguez Padilla et al. (2022, *Geology*), Rodriguez Padilla et al. (in review) 
 
 ## Fault synchronization and earthquake clustering over millenial timescales
-  
-<img width="500" alt="image" src="https://github.com/absrp/albamrodriguez.github.io/assets/52015046/21495644-0280-4503-bd9f-9d70fe57f6b0">
 
+<center>
+<img width="500" alt="image" src="https://github.com/absrp/albamrodriguez.github.io/assets/52015046/21495644-0280-4503-bd9f-9d70fe57f6b0">
+</center>
+  
 Paleoseismic evidence from fault systems across the world suggests that fault synchronization and event clustering are ubiquitous behaviors in the geologic record. We model a two-fault system in quasidynamic earthquake simulator QuakeDFN to examine the  interevent time and magnitude variability that emerges from the elastic interactions between the faults, controlled by the fault spacing, and from the stress heterogeneity on each fault, controlled by the nucleation size.
 
 **Collaborators:** Jean-Philippe Avouac, K.J. Im, Alexis Saez, Hojjat Kaveh (Caltech)
