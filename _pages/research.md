@@ -12,7 +12,7 @@ author_profile: true
 text</center>
 
 <style>body {align: justify}
-  
+
 Zones of geometrical complexity can act as earthquake gates, or conditional barriers to rupture propagation, where material properties, rupture dynamics, and the availability and geometry of neighboring faults control the probability of throughgoing rupture. We use a combination of paleoseismic trenching, numerical modeling, and analysis of historical surface rupture maps to understand how frequent zones of geometrical complexity are breached, allowing a propagating rupture to continue growing, and the mechanics of this process. We study both the general mechanics of earthquake gates, using global surface rupture maps, and the mechanics and frequency of specific earthquake gates, such as the Cajon Pass step-over in Southern California.
 </style>
 
