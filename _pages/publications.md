@@ -4,10 +4,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+<style>body {align: justify}
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on [my google scholar page](https://scholar.google.com/citations?user=eq-YN5sAAAAJ&hl=en)
-{% endif %}
+  The most up to date list of my publications is on [my google scholar page](https://scholar.google.com/citations?user=eq-YN5sAAAAJ&hl=en)
 
 ## Under review
 
