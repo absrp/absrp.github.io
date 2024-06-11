@@ -29,6 +29,7 @@ Publications: Rodriguez Padilla et al. (2022, *Geology*), Rodriguez Padilla et a
 ### The distribution of inelastic strain during earthquakes and over multiple earthquake cycles
 <img width="515" alt="image" src="https://github.com/absrp/albamrodriguez.github.io/assets/52015046/bec1a5fa-eceb-4205-b25f-1130eee7cec0">
 
+
 <div align="wrap">
 **Funding:** SCEC, NASA
 **Collaborators:** Mike Oskin (UC Davis), Chris Milliner (Caltech), Andreas Plesch (Harvard), SCEC SOURCES interns: Mercedes Quintana, Brian Castillo, Ruth Prado, Tom Shea, UC Davis undergraduate: Leslie Garcia
@@ -45,13 +46,18 @@ Publications: Rodriguez Padilla et al. (2022a, *SRL*),  Rodriguez Padilla et al.
 ### Collaborations
 Get in touch via email if you would like to collaborate! 
 
-##### The distribution of surface strain in the 2021 Maduo earthquake (China)
+#### The erasure of earthquakes from the landscape: implications for PFDHA
+Probabilistic fault displacement hazard analysis (PFDHA) relies on knowledge of the magnitude and distribution of coseismic surface displacements. For old events, this information hides in the landscape, modified by the action of surface processes which begin to reshape the record immediately post-earthquake so that the time elapsed since the most recent event, and the conditions under which these surface processes operate will dictate the information available for mapping a fault from the modern landscape. In this work led by PhD candidate Mindy Zuckerman (ASU), we apply a suite of 2D surface process models to high-resolution digital elevation models from environments in southern California with different time elapsed since a well-constrained most recent earthquake to quantify the decrease of information available for mapping as a function of time since the event. 
+
+**Collaborators:** Ramon Arrowsmith (ASU), Mindy Zuckerman (ASU)
+
+#### The distribution of surface strain in the 2021 Maduo earthquake (China)
 In this work led by colleagues at the China Earthquake Administration, we use dense, high-resolution geologic and geodetic data from the 2021 Maduo earthquake in the Tibetan Plateau to investigate the effect of fault maturity and stress orientation, and rupture branching, on the mechanics of the event.
 
 **Collaborators:** Jing Liu (China Earthquake Administration) and Wenqian Yao (IPGP)
 **Publications:** Liu-Zheng et al. (2023, *GRL*), Yao et al. (2024, *Tectonophysics*)
 
-##### The paleoseismic history of the Incapuquio fault system in the Peruvian forearc
+#### The paleoseismic history of the Incapuquio fault system in the Peruvian forearc
 The Incapuquio Fault System in southern Peru accommodates some of the Naza-South America convergence and produces surface rupturing earthquakes that threaten nearby populations. A group led by Dr. Carlos Benavente at The Instituto Geológico, Minero y Metalúrgico (INGEMMET) works to understand the mechanics and paleoseismic history of the different faults within the Incapuquio system. I participated in field efforts during my undergraduate thesis at College of the Atlantic, under the supervision of Dr. Sarah Hall. 
 
 **Collaborators:** Carlos Benavente (INGEMMET), Sarah Hall (College of the Atlantic)
