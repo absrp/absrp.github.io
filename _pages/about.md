@@ -29,3 +29,9 @@ I will be starting a faculty position in the Department of Geosciences at Utah S
 
 <img width="1141" alt="image" src="https://github.com/absrp/albamrodriguez.github.io/assets/52015046/84a62990-196b-4156-9be6-10dce4c3f664">
 View of a normal fault in the Volcanic Tableland, Bishop (CA).
+
+## Related links
+[Earthquake Science @ USU](https://www.usu.edu/geo/earthquake-science)
+[USU Geosciences department](https://www.usu.edu/geo/)
+[Caltech Seismo lab](https://www.seismolab.caltech.edu)
+[Caltech GPS](https://www.gps.caltech.edu)
