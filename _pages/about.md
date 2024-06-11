@@ -4,6 +4,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<style>body {align: justify}
 
 Welcome! I am the O.K. Earl postdoctoral fellow in the Division of Geological and Planetary Sciences at Caltech, working primarily with Dr. Jean-Philippe Avouac. I got my PhD (2023) from the Earth and Planetary Science Department at the University of California, Davis, advised by Dr. Mike Oskin. My PhD work combined field methods and remote sensing to address a variety of problems in earthquake and fault mechanics. My current research interests rely on using geologic and geodetic data, and numerical models, to understand:
 
@@ -18,3 +19,5 @@ I will be starting a faculty position in the Department of Geoscience at Utah St
 
 <img width="1141" alt="image" src="https://github.com/absrp/albamrodriguez.github.io/assets/52015046/84a62990-196b-4156-9be6-10dce4c3f664">
 View of a normal fault in the Volcanic Tableland, Bishop (CA).
+
+</style>
