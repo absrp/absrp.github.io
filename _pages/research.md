@@ -25,7 +25,7 @@ Zones of geometrical complexity can act as earthquake gates, or conditional barr
 # Fault synchronization and earthquake clustering over millenial timescales
 
 <center>
- [1km.gif](https://github.com/absrp/albamrodriguez.github.io/blob/master/files/1km.gif)
+<img width="714" alt="image" src="https://github.com/absrp/albamrodriguez.github.io/assets/52015046/a060c412-f619-4c22-8e17-1ab24d02be12">
 </center> 
 
 <p align="justify">
