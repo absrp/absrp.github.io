@@ -16,8 +16,10 @@ Welcome! I am the O.K. Earl postdoctoral fellow in the Division of Geological an
 
 
 <p align="justify">
-You can learn about my work addressing these topics in the research tab. I am also passionate about mentoring undergraduates in research and have done so through UC Davis, the McNair program, and the SCEC SOURCES program. In my free time, I enjoy rock climbing, gravel biking, reading books and the newspaper, and befriending dogs.
+You can learn about my work addressing these topics in the research tab. I am also passionate about mentoring undergraduates in research and have done so through UC Davis, the McNair program, and the SCEC SOURCES program. 
 </p>
+
+In my free time, I enjoy rock climbing, gravel biking, reading books and the newspaper, and befriending dogs.
 
 <p align="justify">
 I will be starting a faculty position in the Department of Geosciences at Utah State University in January 2025. I am recruiting Masters and PhD students. Send me an email if you're interested and include your CV and a brief statement of your interests and how they align with my research program. You can reach me at alba@caltech.edu or amrodriguezpadilla@gmail.com
