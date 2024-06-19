@@ -98,8 +98,18 @@ In this work led by colleagues at the China Earthquake Administration, we use de
 
 **Publications:** Liu-Zeng et al. (2023, *GRL*), Yao et al. (2024, *Tectonophysics*)
 
+
+## Automated mapping of fault scarps and fractures
+
+<p align="justify">
+
+I am collaborating in the efforts led by fellow Caltech postdoc Dr. Zhiang Chen to automate the detection and mapping of fault scarps and fractures from aerial imagery.
+</p>
+
+**Collaborators:** Zhiang Chen (Caltech), Kate Scharer (USGS), Devin McPhillips (USGS)
+
   
-## The paleoseismic history of the Incapuquio fault system in the Peruvian forearc
+## The paleoseismic history of the Incapuquio fault system in southern Peru
 
 
 <p align="justify">
