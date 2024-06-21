@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-# The mechanics and frequency of rupture propagation through earthquake gates
+# The mechanics and frequency of rupture propagation through zones of geometrical complexity
 
 <center>
 <img width="500" alt="image" src="https://github.com/absrp/albamrodriguez.github.io/assets/52015046/86b065ab-b8a6-4c89-8c64-15f79301ffc1">
@@ -13,7 +13,7 @@ author_profile: true
 
 <p align="justify">
 
-Zones of geometrical complexity can act as earthquake gates, or conditional barriers to rupture propagation, where material properties, rupture dynamics, and the availability and geometry of neighboring faults control the probability of throughgoing rupture. We use a combination of paleoseismic trenching, numerical modeling, and analysis of historical surface rupture maps to understand how frequent zones of geometrical complexity are breached, allowing a propagating rupture to continue growing, and the mechanics of this process. We study both the general mechanics of earthquake gates, using global surface rupture maps, and the mechanics and frequency of specific earthquake gates, such as the Cajon Pass step-over in Southern California.
+Zones of geometrical complexity can act as conditional barriers to rupture propagation, where material properties, rupture dynamics, and the availability and geometry of neighboring faults control the probability of throughgoing rupture. We use a combination of paleoseismic trenching, numerical modeling, and analysis of historical surface rupture maps to understand how frequent zones of geometrical complexity are breached, allowing a propagating rupture to continue growing, and the mechanics of this process. We study both the general mechanics of geometrical complexity in rupture propagation, using global surface rupture maps, and the multi-cycle mechanics and frequency of specific zones of geometrical complexity, such as the Cajon Pass step-over or earthquake gate in Southern California.
 </p>
 
 **Collaborators:** Mike Oskin (UC Davis), Tom Rockwell (SDSU), Irina Delusina (UC Davis), Drake Singleton (USGS), Emily Brodsky (UCSC), Kelian Dascher-Cousineau (UC Berkeley), SCEC SOURCES interns: Vanessa Herrera (SDSU), Sophia White (UCSC)
