@@ -18,8 +18,6 @@ Zones of geometrical complexity can act as conditional barriers to rupture propa
 
 **Collaborators:** Mike Oskin (UC Davis), Tom Rockwell (SDSU), Irina Delusina (UC Davis), Drake Singleton (USGS), Emily Brodsky (UCSC), Kelian Dascher-Cousineau (UC Berkeley), SCEC SOURCES interns: Vanessa Herrera (SDSU), Sophia White (UCSC)
 
-**Funding:** SCEC, NASA
-
 **Publications:** Rodriguez Padilla et al. (2022, *Geology*), Rodriguez Padilla et al. (in review) 
 
 # Fault synchronization and earthquake clustering over millenial timescales
@@ -35,9 +33,6 @@ Paleoseismic evidence from fault systems across the world suggests that fault sy
 
 **Collaborators:** Jean-Philippe Avouac, K.J. Im, Alexis Saez, Hojjat Kaveh (Caltech)
 
-**Funding:** O.K. Earl postdoctoral fellowship (Caltech)
- 
-
 # The distribution of inelastic strain during earthquakes and over multiple earthquake cycles
 
 <center>
@@ -50,8 +45,6 @@ Inelastic deformation constitutes a permanent sink of strain energy during earth
 </p>
  
 **Collaborators:** Mike Oskin (UC Davis), Chris Milliner (Caltech), Andreas Plesch (Harvard), SCEC SOURCES interns: Mercedes Quintana, Brian Castillo, Ruth Prado, Tom Shea, UC Davis undergraduate: Leslie Garcia
-
-**Funding:** SCEC, NASA
 
 **Publications:** Rodriguez Padilla et al. (2022a, *SRL*),  Rodriguez Padilla et al. (2022b, *Nature Geoscience*)
 
@@ -69,8 +62,6 @@ Fracturing and surface displacements during earthquakes threaten infrastructure 
 
 **Collaborators:** Mike Oskin (UC Davis), Ramon Arrowsmith (ASU), graduate student: Mindy Zuckerman (ASU)
 
-**Funding:** PG&E, NEHRP
-
 **Publications:** Rodriguez Padilla and Oskin (2023, *BSSA*)
 
 # Collaborations
@@ -83,8 +74,6 @@ Probabilistic fault displacement hazard analysis (PFDHA) relies on knowledge of 
 </p>
 
 **Collaborators:** Ramon Arrowsmith (ASU), Mindy Zuckerman (ASU)
-
-**Funding:** NEHRP
 
 
 ## The distribution of surface strain in the 2021 Maduo earthquake (China)
