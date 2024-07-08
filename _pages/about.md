@@ -24,7 +24,7 @@ In my free time, I enjoy rock climbing, gravel biking, reading books and the new
 </p>
 
 <p align="justify">
-I will be starting a faculty position in the Department of Geosciences at Utah State University in January 2025. I am recruiting graduate students. Send me an email if you're interested and include your CV and a brief statement of your interests and how they align with my research program. You can reach me at alba@caltech.edu or amrodriguezpadilla@gmail.com
+I will be starting a faculty position in the Department of Geosciences at Utah State University in January 2025. I am recruiting graduate students and am especially interested in those wanting to pursue a MSc. Send me an email if you're interested and include your CV and a brief statement of your interests and how they align with my research program. You can reach me at alba@caltech.edu or amrodriguezpadilla@gmail.com
 </p>
 
 <img width="1141" alt="image" src="https://github.com/absrp/albamrodriguez.github.io/assets/52015046/84a62990-196b-4156-9be6-10dce4c3f664">
