@@ -18,7 +18,7 @@ Zones of geometrical complexity can act as conditional barriers to rupture propa
 
 **Collaborators:** Mike Oskin (UC Davis), Tom Rockwell (SDSU), Irina Delusina (UC Davis), Drake Singleton (USGS), Emily Brodsky (UCSC), Kelian Dascher-Cousineau (UC Berkeley), SCEC SOURCES interns: Vanessa Herrera (SDSU), Sophia White (UCSC)
 
-**Publications:** Rodriguez Padilla et al. (2022, *Geology*), Rodriguez Padilla et al. (in review) 
+**Publications:** Rodriguez Padilla et al. (2022), Rodriguez Padilla et al. (in review) 
 
 # Fault synchronization and earthquake clustering over millenial timescales
 
@@ -46,7 +46,7 @@ Inelastic deformation constitutes a permanent sink of strain energy during earth
  
 **Collaborators:** Mike Oskin (UC Davis), Chris Milliner (Caltech), Andreas Plesch (Harvard), SCEC SOURCES interns: Mercedes Quintana, Brian Castillo, Ruth Prado, Tom Shea, UC Davis undergraduate: Leslie Garcia
 
-**Publications:** Rodriguez Padilla et al. (2022a, *SRL*),  Rodriguez Padilla et al. (2022b, *Nature Geoscience*)
+**Publications:** Rodriguez Padilla et al. (2022a),  Rodriguez Padilla et al. (2022b)
 
  
 # Probabilistic displacement hazard assessment for strike-slip faults
@@ -62,7 +62,7 @@ Fracturing and surface displacements during earthquakes threaten infrastructure 
 
 **Collaborators:** Mike Oskin (UC Davis), Ramon Arrowsmith (ASU), graduate student: Mindy Zuckerman (ASU)
 
-**Publications:** Rodriguez Padilla and Oskin (2023, *BSSA*)
+**Publications:** Rodriguez Padilla and Oskin (2023)
 
 # Collaborations
 Get in touch via email if you would like to collaborate! 
@@ -85,7 +85,7 @@ In this work led by colleagues at the China Earthquake Administration, we use de
 
 **Collaborators:** Jing Liu (China Earthquake Administration) and Wenqian Yao (IPGP)
 
-**Publications:** Liu-Zeng et al. (2023, *GRL*), Yao et al. (2024, *Tectonophysics*)
+**Publications:** Liu-Zeng et al. (2023), Yao et al. (2024)
 
 
 ## Automated mapping of fault scarps and fractures
@@ -107,6 +107,6 @@ The Incapuquio Fault System in southern Peru accommodates some of the Naza-South
 
 **Collaborators:** Carlos Benavente (INGEMMET), Sarah Hall (College of the Atlantic)
 
-**Publications:** Benavente et al. (2022, *Tectonophysics*)
+**Publications:** Benavente et al. (2022)
 
 
