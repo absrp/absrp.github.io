@@ -9,13 +9,10 @@ author_profile: true
 
 ⊛ denotes mentored undergraduate student
 
-## Under review
-
-Rodriguez Padilla, A.M., Oskin, M.E., Brodsky, E.E., Dascher-Cousineau, K., Herrera, V.⊛, White, S.⊛, The influence of earthquake gates in surface rupture length. Pre-print available [here](essopenarchive.org/users/700353/articles/687281-the-influence-of-earthquake-gates-on-surface-rupture-length)
-
 ## In press
 
 <ol reversed>
+  <li> Rodriguez Padilla, A.M., Oskin, M.E., Brodsky, E.E., Dascher-Cousineau, K., Herrera, V.⊛, White, S.⊛, The influence of fault geometrical complexity in surface rupture length. In press in Geophysical Research Letters. </li>
   <li> Liu‐Zeng, J., Liu, Z., Liu, X., Milliner, C., Rodriguez Padilla, A. M., Xu, S., ... & Shao, Z. (2024). Fault orientation trumps fault maturity in controlling coseismic rupture characteristics of the 2021 Maduo earthquake. AGU Advances, 5(2), e2023AV001134. </li>
   <li> Yao, W., Liu-Zeng, J., Shi, X., Wang, Z., Padilla, A. R., Qin, K., ... & Gao, Y. (2024). Rupture branching, propagation, and termination at the eastern end of the 2021 Mw 7.4 Maduo earthquake, northern Tibetan plateau. Tectonophysics, 230262. </li>
   <li>  Young, E. K., Oskin, M. E., & Rodriguez Padilla, A. M. (2024). Reproducibility of Remote Mapping of the 2019 Ridgecrest Earthquake Surface Ruptures. Seismological Research Letters, 95(1), 288-298. </li>
