@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Complete CV (updated June 10, 2024): [CV (PDF)](https://github.com/user-attachments/files/15782747/CV_RodriguezPadilla.pdf)
+Complete CV (updated August 26, 2024): [CV (PDF)](https://github.com/user-attachments/files/16750716/Full_CV___August__2024.pdf)
 
 {% include base_path %}
 Professional appointments 
