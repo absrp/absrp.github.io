@@ -20,15 +20,16 @@ Zones of geometrical complexity can act as conditional barriers to rupture propa
 
 **Publications:** Rodriguez Padilla et al. (2022), Rodriguez Padilla et al. (in press in GRL) 
 
-# Fault synchronization and earthquake clustering over millenial timescales
+# Fault synchronization, earthquake clustering over millenial timescales
 
 <center>
-<img width="714" alt="image" src="https://github.com/absrp/albamrodriguez.github.io/assets/52015046/a060c412-f619-4c22-8e17-1ab24d02be12">
+<img width="703" alt="image" src="https://github.com/user-attachments/assets/b3c50eaf-352a-4ebd-8055-f6b82432211d">
+
 </center> 
 
 <p align="justify">
 
-Paleoseismic evidence from fault systems across the world suggests that fault synchronization and event clustering are ubiquitous behaviors in the geologic record. We model a two-fault system in quasidynamic earthquake simulator QuakeDFN to examine the  interevent time and magnitude variability that emerges from the elastic interactions between the faults, controlled by the fault spacing, and from the stress heterogeneity on each fault, controlled by the nucleation size.
+Paleoseismic evidence from parallel faults across the world suggests that fault synchronization, event clustering, and variable slip rates over millenial timescales are ubiquitous behaviors in the geologic record. We model a two-fault system to examine the  interevent time and magnitude variability that emerges from the elastic interactions between the faults, controlled by the fault spacing, and from the stress heterogeneity on each fault, controlled by the nucleation size.
 </p>
 
 **Collaborators:** Jean-Philippe Avouac, K.J. Im, Alexis Saez, Hojjat Kaveh (Caltech)
