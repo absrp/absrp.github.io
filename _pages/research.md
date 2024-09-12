@@ -20,7 +20,7 @@ Zones of geometrical complexity can act as conditional barriers to rupture propa
 
 **Publications:** Rodriguez Padilla et al. (2022), Rodriguez Padilla et al. (in press in GRL) 
 
-# Fault synchronization, earthquake clustering over millenial timescales
+# Fault synchronization, earthquake clustering, and variable slip rates over millenial timescales
 
 <center>
 <img width="703" alt="image" src="https://github.com/user-attachments/assets/b3c50eaf-352a-4ebd-8055-f6b82432211d">
