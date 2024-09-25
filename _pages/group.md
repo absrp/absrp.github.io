@@ -1,10 +1,10 @@
 ---
+layout: archive
+title: "group"
 permalink: /group/
-title: "Active Tectonics @ USU"
 author_profile: true
-redirect_from: 
-  - "/group/"
-  - "/group.html"
+redirect_from:
+  - /group
 ---
 
 ### Current group members
