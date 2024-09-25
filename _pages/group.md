@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Active tectonics @ USU"
+title: "Active Tectonics @ USU"
 permalink: /group/
 author_profile: true
 ---
