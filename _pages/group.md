@@ -18,16 +18,19 @@ I will be starting a faculty position in the Department of Geosciences at Utah S
 Here's a list of undergraduates that I have mentored in research projects through UC Davis, the State-wide California Earthquake Center, and the McNair program and their current whereabouts as best known:
 </p>
 
+-  Karen Castañeda (UC Davis senior thesis 2023), now a MSc student at San Jose State University
+-  Vanessa Herrera (SCEC SOURCES intern 2022-2023), now a MSc student at San Diego State University
+-  Lupita Bravo (UC Davis senior thesis and McNair scholar 2021-2022, co-advised with Mike Oskin), now a PhD student at UC Riverside
 -  Mercedes Quintana (SCEC SOURCES intern 2021-2022), now a MSc student at Georgia Tech
 -  Sophia White (SCEC SOURCES intern 2022), now a PhD student at UC Santa Cruz
--  Vanessa Herrera (SCEC SOURCES intern 2022-2023), now a MSc student at San Diego State University
--  Karen Castañeda (UC Davis senior thesis 2023), now a MSc student at San Jose State University
+-  Kimberly Bowman (UC Davis mapping project, 2021), now at the California Department of Water Resources
+-  Ruth Prado (SCEC SOURCES intern 2021), now an undergraduate at UC Santa Barbara
 -  Tom Shea (SCEC SOURCES intern 2021), now at the National Park Service
 -  Michael Hernandez (SCEC SOURCES intern 2021), now an engineering geologist for the State of California
 -  Brian Aguilar (SCEC SOURCES intern 2021), now a MSc student at Cal State Bakersfield
--  Sofia Marino (UC Davis senior thesis 2020), now a MSc student at UNC Chapel Hill
--  Leslie Garcia (UC Davis research project, 2021), now a PhD student at USU with Alexis Ault
--  Kimberly Bowman (UC Davis mapping project, 2022), now at the California Department of Water Resources
+-  Leslie Garcia (UC Davis research project 2021), now a PhD student at USU with Alexis Ault
+-  Sofia Marino (UC Davis senior thesis 2020, co-advised with Mike Oskin), now a MSc student at UNC Chapel Hill
+
 
 <img width="640" alt="image" src="https://github.com/user-attachments/assets/c7d4bcfc-05fa-4126-b6d8-35b5e2978666">
 
