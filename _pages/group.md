@@ -32,4 +32,5 @@ Here's a list of undergraduates that I have mentored in research projects throug
 -  Kimberly Bowman (UC Davis mapping project, 2022), now at the California Department of Water Resources
 
 <img width="640" alt="image" src="https://github.com/user-attachments/assets/c7d4bcfc-05fa-4126-b6d8-35b5e2978666">
+
 View of the San Gabriel Mountains in Southern California from a hike up San Gabriel Peak
