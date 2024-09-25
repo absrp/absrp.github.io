@@ -3,8 +3,6 @@ layout: archive
 title: "group"
 permalink: /group/
 author_profile: true
-redirect_from:
-  - /group
 ---
 
 ### Current group members
