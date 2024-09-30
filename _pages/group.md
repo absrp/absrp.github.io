@@ -12,6 +12,8 @@ I will be starting a faculty position in the Department of Geosciences at Utah S
   
 </p>
 
+We are part of the broader [Earthquake Science at USU group](https://www.usu.edu/geo/earthquake-science) and regularly collaborate with other faculty in the group.
+
 ### Former group members 
 
 <p align="justify">
