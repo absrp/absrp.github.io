@@ -18,7 +18,7 @@ Zones of geometrical complexity can act as conditional barriers to rupture propa
 
 **Collaborators:** Mike Oskin (UC Davis), Tom Rockwell (SDSU), Irina Delusina (UC Davis), Drake Singleton (USGS), Emily Brodsky (UCSC), Kelian Dascher-Cousineau (UC Berkeley), SCEC SOURCES interns: Vanessa Herrera (SDSU), Sophia White (UCSC)
 
-**Publications:** Rodriguez Padilla et al. (2022), Rodriguez Padilla et al. (in press in GRL) 
+**Publications:** Rodriguez Padilla et al. (2022), Rodriguez Padilla et al. (2024) 
 
 # Fault synchronization, earthquake clustering, and variable slip rates over millenial timescales
 
