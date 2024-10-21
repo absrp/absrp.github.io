@@ -29,7 +29,7 @@ Zones of geometrical complexity can act as conditional barriers to rupture propa
 
 <p align="justify">
 
-Paleoseismic evidence from parallel faults across the world suggests that fault synchronization, event clustering, and variable slip rates over millenial timescales are ubiquitous behaviors in the geologic record. We model a two-fault system to examine the  interevent time and magnitude variability that emerges from the elastic interactions between the faults, controlled by the fault spacing, and from the stress heterogeneity on each fault, controlled by the nucleation size.
+Paleoseismic evidence from parallel faults across the world suggests that fault synchronization, event clustering, and variable slip rates over millenial timescales are ubiquitous behaviors in the geologic record. We model a two-fault system to examine the variability in earthquake sequences that emerges from the elastic interactions between the faults, controlled by the fault spacing, and from the stress heterogeneity on each fault, controlled by the nucleation size.
 </p>
 
 **Collaborators:** Jean-Philippe Avouac, K.J. Im, Alexis Saez, Hojjat Kaveh (Caltech)
