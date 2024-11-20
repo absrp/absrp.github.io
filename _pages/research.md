@@ -99,15 +99,18 @@ I am collaborating in the efforts led by fellow Caltech postdoc Dr. Zhiang Chen 
 **Collaborators:** Zhiang Chen (Caltech), Kate Scharer (USGS), Devin McPhillips (USGS)
 
   
-## The paleoseismic history of the Incapuquio fault system in southern Peru
-
+## Active tectonics of Peru
 
 <p align="justify">
+I was lucky to do research under the guidance of Dr. Sarah Hall at College of the Atlantic when I was an undergraduate there, working on two projects related to active tectonics in Peru:
+
 The Incapuquio Fault System in southern Peru accommodates some of the Naza-South America convergence and produces surface rupturing earthquakes that threaten nearby populations. A group led by Dr. Carlos Benavente at The Instituto Geológico, Minero y Metalúrgico (INGEMMET) works to understand the mechanics and paleoseismic history of the different faults within the Incapuquio system. I participated in field efforts during my undergraduate thesis at College of the Atlantic, under the supervision of Dr. Sarah Hall. 
+
+The Cordillera Blanca in the northern Andes of Peru hosts some of the highest peaks in the mountain range and is bounded by a 200 km long detachment fault on its western flank, the Cordillera Blanca deatchment fault. I contributed to a book chapter reviewing the geology and tectonic setting of the Cordillera Blanca, also led by Dr. Sarah Hall at COA. 
 </p>
 
-**Collaborators:** Carlos Benavente (INGEMMET), Sarah Hall (College of the Atlantic)
+**Collaborators:** Sarah Hall (College of the Atlantic), Carlos Benavente (INGEMMET)
 
-**Publications:** Benavente et al. (2022)
+**Publications:** Benavente et al. (2022), Hall et al. (2024)
 
 
