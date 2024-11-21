@@ -7,7 +7,7 @@ author_profile: true
 
  [My google scholar page](https://scholar.google.com/citations?user=eq-YN5sAAAAJ&hl=en)
 
-⊛ denotes mentored undergraduate student
+⊛ mentored undergraduate student
 
 ## In press
 
