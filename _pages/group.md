@@ -8,7 +8,7 @@ author_profile: true
 ### Current group members
 
 <p align="justify">
-I will be starting a faculty position in the Department of Geosciences at Utah State University in January 2025. I am recruiting graduate students and am especially interested in those wanting to pursue a MSc. Send me an email if you're interested and include your CV and a brief statement of your interests and how they align with my research program. You can reach me at alba@caltech.edu or amrodriguezpadilla@gmail.com. I also have funding to support undergraduate students (from USU or otherwise) for summer research projects, reach out if you are interested! 
+I just started a faculty position in the Department of Geosciences at Utah State University. I am recruiting graduate students and am especially interested in those wanting to pursue a MSc. Send me an email if you're interested and include your CV and a brief statement of your interests and how they align with my research program. You can reach me at alba.rodriguez@usu.edu . I also have funding to support undergraduate students (from USU or otherwise) for summer research projects, reach out if you are interested! 
   
 </p>
 
