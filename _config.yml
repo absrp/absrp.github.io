@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Alba M. Rodriguez Padilla"
 title_separator          : "-"
 name                     : &name "Alba M. Rodriguez Padilla"
-description              : &description "O.K. Earl Postdoctoral Fellow, California Institute of Technology"
+description              : &description "Assistant professor of Geosciences"
 url                      : https://absrp.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -24,11 +24,11 @@ author:
   avatar           : "profile.jpg"
   name             : "Alba M. Rodriguez Padilla"
   pronouns         : "she/her"  
-  bio              : "O.K. Earl Postdoctoral Fellow"
-  employer         : "Caltech"
-  location         : "Pasadena, CA"
+  bio              : "Assistant professor of Geosciences"
+  employer         : "Utah State University"
+  location         : "Logan, UT"
   uri              : # URL
-  email            : "alba@caltech.edu" 
+  email            : "alba.rodriguez@usu.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
