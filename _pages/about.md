@@ -10,9 +10,9 @@ Welcome! I am an Assistant Professor of Geosciences at Utah State University. Be
 </p>
 
 1. The mechanics of large earthquakes, especially multi-fault ones
-2. Fault synchronization and earthquake clustering over millenial timescales
+2. Fault synchronization and earthquake clustering over millennial timescales
 3. The distribution of inelastic strain during earthquakes and over multiple earthquake cycles
-4. Probabilistic displacement hazard assessment for strike-slip faults
+4. Probabilistic displacement hazard assessment of surface rupturing earthquakes
 
 
 <p align="justify">
