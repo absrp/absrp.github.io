@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-# The mechanics and frequency of rupture propagation through zones of geometrical complexity
+# The mechanics and frequency of rupture propagation through zones of fault geometrical complexity
 
 <center>
 <img width="500" alt="image" src="https://github.com/absrp/albamrodriguez.github.io/assets/52015046/86b065ab-b8a6-4c89-8c64-15f79301ffc1">
@@ -13,7 +13,7 @@ author_profile: true
 
 <p align="justify">
 
-Zones of geometrical complexity can act as conditional barriers to rupture propagation, where material properties, rupture dynamics, and the availability and geometry of neighboring faults control the probability of throughgoing rupture. We use a combination of paleoseismic trenching, numerical modeling, and analysis of historical surface rupture maps to understand how frequent zones of geometrical complexity are breached, allowing a propagating rupture to continue growing, and the mechanics of this process. We study both the general mechanics of geometrical complexity in rupture propagation, using global surface rupture maps, and the multi-cycle mechanics and frequency of specific zones of geometrical complexity, such as the Cajon Pass step-over or earthquake gate in Southern California.
+Zones of geometrical complexity can act as conditional barriers to rupture propagation, where material properties, rupture dynamics, and the availability and geometry of neighboring faults control the probability of throughgoing rupture. We use a combination of paleoseismic trenching, numerical modeling, and analysis of historical surface rupture maps to understand how frequently zones of geometrical complexity are breached, allowing a propagating rupture to continue growing, and the mechanics of this process. We study both the general mechanics of geometrical complexity in rupture propagation, using global surface rupture maps, and the multi-cycle mechanics and frequency of specific zones of geometrical complexity, such as the Cajon Pass step-over in Southern California.
 </p>
 
 **Collaborators:** Mike Oskin (UC Davis), Tom Rockwell (SDSU), Irina Delusina (UC Davis), Drake Singleton (USGS), Emily Brodsky (UCSC), Kelian Dascher-Cousineau (UC Berkeley), SCEC SOURCES interns: Vanessa Herrera (SDSU), Sophia White (UCSC)
@@ -29,7 +29,7 @@ Zones of geometrical complexity can act as conditional barriers to rupture propa
 
 <p align="justify">
 
-Paleoseismic evidence from parallel faults across the world suggests that fault synchronization, event clustering, and variable slip rates over millenial timescales are ubiquitous behaviors in the geologic record. We model a two-fault system to examine the variability in earthquake sequences that emerges from the elastic interactions between the faults, controlled by the fault spacing, and from the stress heterogeneity on each fault, controlled by the nucleation size.
+Paleoseismic evidence from parallel, neighboring faults across the world suggests that event clustering (fault syncrhonization) and trade offs in slip rate over millenial timescales are ubiquitous behaviors in the geologic record. We model a simple two-fault system to examine the role of the elastic interactions between the faults in establishing these behaviors in strike-slip and dip-slip faulting environments.
 </p>
 
 **Collaborators:** Jean-Philippe Avouac and Alexis Saez (Caltech)
