@@ -6,7 +6,7 @@ redirect_from:
 ---
 
 <p align="justify">
-Welcome! I am an Assistant Professor of Geosciences at Utah State University. Before, I was a postdoc in the Division of Geological and Planetary Sciences at Caltech, working primarily with Dr. Jean-Philippe Avouac. I got my PhD (2023) from the Earth and Planetary Sciences Department at the University of California, Davis, advised by Dr. Mike Oskin. My current research interests rely on using geologic and geodetic data, and numerical models, to understand:
+Welcome! I am an Assistant Professor of Geosciences at Utah State University. Before, I was a postdoc in the Division of Geological and Planetary Sciences at Caltech, working primarily with Dr. Jean-Philippe Avouac. I got my PhD (2023) from the Earth and Planetary Sciences Department at the University of California, Davis, advised by Dr. Mike Oskin. My current work relies on using geologic and geodetic data, and numerical models, to understand:
 </p>
 
 1. The mechanics of large earthquakes, especially multi-fault ones
@@ -16,7 +16,7 @@ Welcome! I am an Assistant Professor of Geosciences at Utah State University. Be
 
 
 <p align="justify">
-You can learn about my work addressing these topics in the research tab. In my free time, I enjoy rock climbing, gravel biking, reading, and befriending dogs.
+You can learn about my work addressing these topics in the research tab. In my free time, I enjoy rock climbing, gravel biking, reading, and befriending dogs. I am also learning how to cross-country and alpine skii in the beautiful Utah snow.
 </p>
 
 <p align="justify">
