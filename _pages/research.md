@@ -84,7 +84,7 @@ In this work led by colleagues at the China Earthquake Administration, we use de
 </p>
 
 
-**Collaborators:** Jing Liu (China Earthquake Administration) and Wenqian Yao (IPGP)
+**Collaborators:** Jing Liu-Zeng (China Earthquake Administration) and Wenqian Yao (IPGP)
 
 **Publications:** Liu-Zeng et al. (2023), Yao et al. (2024)
 
