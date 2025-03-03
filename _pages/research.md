@@ -20,16 +20,16 @@ Zones of geometrical complexity can act as conditional barriers to rupture propa
 
 **Publications:** Rodriguez Padilla et al. (2022), Rodriguez Padilla et al. (2024) 
 
-# Fault synchronization, earthquake clustering, and variable slip rates over millenial timescales
+# The influence of elastic interactions on earthquake timing on neighboring faults
 
 <center>
-<img width="703" alt="image" src="https://github.com/user-attachments/assets/b3c50eaf-352a-4ebd-8055-f6b82432211d">
+<img width="607" alt="image" src="https://github.com/user-attachments/assets/6497790b-e27c-43e4-a30b-8b98227c729d" />
 
 </center> 
 
 <p align="justify">
 
-Paleoseismic evidence from parallel, neighboring faults across the world suggests that event clustering (fault syncrhonization) and trade offs in slip rate over millenial timescales are ubiquitous behaviors in the geologic record. We model a simple two-fault system to examine the role of the elastic interactions between the faults in establishing these behaviors in strike-slip and dip-slip faulting environments.
+Paleoseismic evidence from parallel, neighboring faults across the world suggests that earthquake clustering (fault synchronization) and mode switching are ubiquitous behaviors in the geologic record. We model a simple two-fault system to examine the role of the elastic interactions between the faults in establishing these behaviors in strike-slip and dip-slip faulting environments.
 </p>
 
 **Collaborators:** Jean-Philippe Avouac and Alexis Saez (Caltech)
