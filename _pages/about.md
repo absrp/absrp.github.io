@@ -6,13 +6,14 @@ redirect_from:
 ---
 
 <p align="justify">
-Welcome! I am an Assistant Professor of Geosciences at Utah State University. Before, I was a postdoc in the Division of Geological and Planetary Sciences at Caltech, working primarily with Dr. Jean-Philippe Avouac. I got my PhD (2023) from the Earth and Planetary Sciences Department at the University of California, Davis, advised by Dr. Mike Oskin. My current work relies on using geologic and geodetic data, and numerical models, to understand:
+Welcome! I am an Assistant Professor of Geosciences at Utah State University. Before, I was a postdoc in the Division of Geological and Planetary Sciences at Caltech, working primarily with Dr. Jean-Philippe Avouac. I got my PhD (2023) from the Earth and Planetary Sciences Department at the University of California, Davis, advised by Dr. Mike Oskin. My work relies on using geologic and geodetic data, and numerical models, to understand:
 </p>
 
 1. The mechanics of large earthquakes, especially multi-fault ones
-2. Fault synchronization and earthquake clustering over millennial timescales
+2. Long-term fault interactions
 3. The distribution of inelastic strain during earthquakes and over multiple earthquake cycles
-4. Probabilistic displacement hazard assessment of surface rupturing earthquakes
+4. The competition between tectonic deformation and surface processes in fault scarp evolution
+5. Probabilistic displacement hazard assessment of surface rupturing earthquakes
 
 
 <p align="justify">
