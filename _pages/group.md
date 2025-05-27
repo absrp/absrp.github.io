@@ -8,11 +8,11 @@ author_profile: true
 ### Current group members
 
 <p align="justify">
-I just started a faculty position in the Department of Geosciences at Utah State University. I am recruiting graduate students and am especially interested in those wanting to pursue a MSc. Send me an email if you're interested and include your CV and a brief statement of your interests and how they align with my research program. You can reach me at alba.rodriguez@usu.edu . I also have funding to support undergraduate students (from USU or otherwise) for summer research projects, reach out if you are interested! 
+I just started a faculty position in the Department of Geosciences at Utah State University and I am recruiting graduate students. Send me an email if you're interested and include your CV and a brief statement of your interests and how they align with my research program. You can reach me at alba.rodriguez@usu.edu . I also have funding to support undergraduate students (from USU or otherwise) for summer research projects, reach out if you are interested! 
   
 </p>
 
-We are part of the broader [Earthquake Science at USU group](https://www.usu.edu/geo/earthquake-science) and regularly collaborate with other faculty in the group.
+We are part of the broader [Earthquake Science at USU group](https://www.usu.edu/geo/earthquake-science) and regularly collaborate with other faculty and students in the group.
 
 ### Former group members 
 
