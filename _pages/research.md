@@ -20,7 +20,7 @@ Zones of geometrical complexity can act as conditional barriers to rupture propa
 
 **Publications:** Rodriguez Padilla et al. (2022), Rodriguez Padilla et al. (2024) 
 
-# The influence of elastic interactions on earthquake timing on neighboring faults
+# The influence of elastic interactions on long-term fault dynamics
 
 <center>
 <img width="607" alt="image" src="https://github.com/user-attachments/assets/6497790b-e27c-43e4-a30b-8b98227c729d" />
