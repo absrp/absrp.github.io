@@ -13,7 +13,7 @@ author_profile: true
 
 <p align="justify">
 
-Zones of geometrical complexity can act as conditional barriers to rupture propagation, where material properties, rupture dynamics, and the availability and geometry of neighboring faults control the probability of throughgoing rupture. We use a combination of paleoseismic trenching, numerical modeling, and analysis of historical surface rupture maps to understand how frequently zones of geometrical complexity are breached, allowing a propagating rupture to continue growing, and the mechanics of this process. We study both the general mechanics of geometrical complexity in rupture propagation, using global surface rupture maps, and the multi-cycle mechanics and frequency of specific zones of geometrical complexity, such as the Cajon Pass step-over in Southern California.
+Zones of geometrical complexity can act as conditional barriers to rupture propagation, where material properties, rupture dynamics, and the availability and geometry of neighboring faults control the probability of throughgoing rupture. We use a combination of paleoseismic trenching, numerical modeling, and analysis of historical surface rupture maps to understand how frequently zones of geometrical complexity are breached, allowing a propagating rupture to continue growing, and the mechanics of this process. We study both the general mechanics of geometrical complexity in rupture propagation, using global surface rupture maps, and the multi-cycle mechanics and frequency of specific zones of geometrical complexity, such as the Cajon Pass step-over in Southern California or segment boundaries on the Wasatch fault in Utah.
 </p>
 
 **Collaborators:** Mike Oskin (UC Davis), Tom Rockwell (SDSU), Irina Delusina (UC Davis), Drake Singleton (USGS), Emily Brodsky (UCSC), Kelian Dascher-Cousineau (UC Berkeley), SCEC SOURCES interns: Vanessa Herrera (SDSU), Sophia White (UCSC)
@@ -29,7 +29,7 @@ Zones of geometrical complexity can act as conditional barriers to rupture propa
 
 <p align="justify">
 
-Paleoseismic evidence from parallel, neighboring faults across the world suggests that earthquake clustering (fault synchronization) and mode switching are ubiquitous behaviors in the geologic record. We model a simple two-fault system to examine the role of the elastic interactions between the faults in establishing these behaviors in strike-slip and dip-slip faulting environments.
+Paleoseismic evidence from parallel, neighboring faults across the world suggests that fault synchronization and mode switching are frequent behaviors in the geologic record. We model a simple two-fault system to examine the role of the elastic interactions between the faults in establishing these behaviors.
 </p>
 
 **Collaborators:** Jean-Philippe Avouac and Alexis Saez (Caltech)
