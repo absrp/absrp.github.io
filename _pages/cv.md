@@ -7,7 +7,8 @@ redirect_from:
   - /resume
 ---
 
-Complete CV (updated August 26, 2024): [CV (PDF)](https://github.com/user-attachments/files/16787103/Full_CV___August__2024.pdf)
+Complete CV (updated June 4, 2025): [CV (PDF)](https://github.com/user-attachments/files/20600109/Full_CV___March__2025.pdf)
+
 
 
 {% include base_path %}
