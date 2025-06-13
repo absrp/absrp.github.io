@@ -5,21 +5,21 @@ permalink: /group/
 author_profile: true
 ---
 
-### Current group members
+## Current group members
 See the landing page for information for prospective students. 
 
-#### Students at Utah State University
+### Students at Utah State University
 - Sophia Esquenet - PhD student starting Fall 2025. Co-advised with Dr. Srisharan Shreedharan 
 - Katerina (Kat) Wood - MSc student starting Fall 2025.
 - Leslie Garcia - The geometry of the 2023 Turkiye earthquakes. PhD student in Alexis Ault's group (2024-present).
 
-#### SCEC SOURCES interns summer 2025
+### SCEC SOURCES interns summer 2025
 - Allison Schiffmaier (UC Davis)
 - Yajaira De Haro (San Jose State University)
   
 We are part of the broader [Earthquake Science at USU group](https://www.usu.edu/geo/earthquake-science) and regularly collaborate with other faculty and students in the group.
 
-### Former group members 
+## Former group members 
 
 <p align="justify">
 Here's a list of undergraduates that I have mentored in research projects through UC Davis, the State-wide California Earthquake Center, and the McNair program and their current whereabouts as best known:
