@@ -25,18 +25,18 @@ We are part of the broader [Earthquake Science at USU group](https://www.usu.edu
 Here's a list of undergraduates that I have mentored in research projects through UC Davis, the State-wide California Earthquake Center, and the McNair program and their current whereabouts as best known:
 </p>
 
--  Karen Castañeda (UC Davis senior thesis 2023), now a MSc student at San Jose State University
--  Vanessa Herrera (SCEC SOURCES intern 2022-2023), now a MSc student at San Diego State University
--  Lupita Bravo (UC Davis senior thesis and McNair scholar 2021-2022, co-advised with Mike Oskin), now a PhD student at UC Riverside
--  Mercedes Quintana (SCEC SOURCES intern 2021-2022), now a MSc student at Georgia Tech
--  Sophia White (SCEC SOURCES intern 2022), now a PhD student at UC Santa Cruz
--  Kimberly Bowman (UC Davis mapping project, 2021), now at the California Department of Water Resources
--  Ruth Prado (SCEC SOURCES intern 2021), now an undergraduate at UC Santa Barbara
--  Tom Shea (SCEC SOURCES intern 2021), now at the National Park Service
--  Michael Hernandez (SCEC SOURCES intern 2021), now an engineering geologist for the State of California
--  Brian Aguilar (SCEC SOURCES intern 2021), now a MSc student at Cal State Bakersfield
--  Leslie Garcia (UC Davis research project 2021), now a PhD student at USU with Alexis Ault
--  Sofia Marino (UC Davis senior thesis 2020, co-advised with Mike Oskin), now a MSc student at UNC Chapel Hill
+-  Karen Castañeda (UC Davis senior thesis 2023) - MSc student at San Jose State University
+-  Vanessa Herrera (SCEC SOURCES intern 2022-2023) - MSc student at San Diego State University
+-  Lupita Bravo (UC Davis senior thesis and McNair scholar 2021-2022, co-advised with Mike Oskin) - PhD student at UC Riverside
+-  Mercedes Quintana (SCEC SOURCES intern 2021-2022) - MSc student at Georgia Tech
+-  Sophia White (SCEC SOURCES intern 2022) - PhD student at UC Santa Cruz
+-  Kimberly Bowman (UC Davis mapping project, 2021) - California Department of Water Resources
+-  Ruth Prado (SCEC SOURCES intern 2021) - undergraduate at UC Santa Barbara
+-  Tom Shea (SCEC SOURCES intern 2021) -  National Park Service
+-  Michael Hernandez (SCEC SOURCES intern 2021) - engineering geologist for the State of California
+-  Brian Aguilar (SCEC SOURCES intern 2021) - MSc student at Cal State Bakersfield
+-  Leslie Garcia (UC Davis research project 2021) - PhD student at USU with Alexis Ault
+-  Sofia Marino, MSc (UC Davis senior thesis 2020, co-advised with Mike Oskin) - geologist in training at HDR 
 
 
 <img width="640" alt="image" src="https://github.com/user-attachments/assets/c7d4bcfc-05fa-4126-b6d8-35b5e2978666">
