@@ -9,9 +9,9 @@ author_profile: true
 See the landing page for information for prospective students. 
 
 ### Students at Utah State University
-- Sophia Esquenet - PhD student starting Fall 2025. Co-advised with Dr. Srisharan Shreedharan 
+- Sophia Esquenet (PhD expected 2030, co-advised with Dr. Srisharan Shreedharan) - Rupture propagation mechanics in natural and laboratory earthquakes
 - Katerina (Kat) Wood - MSc student starting Fall 2025.
-- Leslie Garcia - The geometry of the 2023 Turkiye earthquakes. PhD student in Alexis Ault's group (2024-present).
+- Leslie Garcia (PhD expected 2029, advised by Dr. Alexis Ault) - The geometry of the 2023 Turkiye earthquakes.
 
 ### SCEC SOURCES interns summer 2025
 - Allison Schiffmaier (UC Davis)
