@@ -8,14 +8,9 @@ author_profile: true
 ## Current group members
 See the landing page for information for prospective students. 
 
-### Students at Utah State University
 - Sophia Esquenet (PhD expected 2030, co-advised with Dr. Srisharan Shreedharan) - Rupture propagation mechanics in natural and laboratory earthquakes
 - Katerina (Kat) Wood (MSc expected 2027) - tbd
 - Leslie Garcia (PhD expected 2029, advised by Dr. Alexis Ault) - Rupture characteristics of the 2023 Elbistan earthquake
-
-### SCEC SOURCES interns summer 2025
-- Allison Schiffmaier (UC Davis)
-- Yajaira De Haro (San Jose State University)
   
 We are part of the broader [Earthquake Science at USU group](https://www.usu.edu/geo/earthquake-science) and regularly collaborate with other faculty and students in the group.
 
@@ -25,6 +20,8 @@ We are part of the broader [Earthquake Science at USU group](https://www.usu.edu
 Here's a list of undergraduates that I have mentored in research projects through UC Davis, the State-wide California Earthquake Center, and the McNair program and their current whereabouts as best known:
 </p>
 
+-  Allison Schiffmaier (SCEC SOURCES intern 2025) - undergraduate at UC Davis
+-  Yajaira De Haro (SCEC SOURCES intern 2025) - undergraduate at San Jose State University
 -  Karen Castañeda (UC Davis senior thesis 2023) - MSc student at San Jose State University
 -  Vanessa Herrera (SCEC SOURCES intern 2022-2023) - MSc student at San Diego State University
 -  Lupita Bravo (UC Davis senior thesis and McNair scholar 2021-2022, co-advised with Mike Oskin) - PhD student at UC Riverside
