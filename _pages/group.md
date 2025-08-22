@@ -10,7 +10,7 @@ See the landing page for information for prospective students.
 
 ### Students at Utah State University
 - Sophia Esquenet (PhD expected 2030, co-advised with Dr. Srisharan Shreedharan) - Rupture propagation mechanics in natural and laboratory earthquakes
-- Katerina (Kat) Wood (MSc expected 2027) - Large-scale detection and morphologic dating of fault scarps in the Basin and Range
+- Katerina (Kat) Wood (MSc expected 2027) - tbd
 - Leslie Garcia (PhD expected 2029, advised by Dr. Alexis Ault) - Rupture characteristics of the 2023 Elbistan earthquake
 
 ### SCEC SOURCES interns summer 2025
