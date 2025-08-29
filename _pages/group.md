@@ -9,7 +9,7 @@ author_profile: true
 See the landing page for information for prospective students. 
 
 - Sophia Esquenet (PhD expected 2030, co-advised with Dr. Srisharan Shreedharan) - Rupture propagation mechanics in natural and laboratory earthquakes
-- Katerina (Kat) Wood (MSc expected 2027) - tbd
+- Katerina (Kat) Wood (MSc expected 2027) - Off-fault fracturing and the supershear transition
 - Leslie Garcia (PhD expected 2029, advised by Dr. Alexis Ault) - Rupture characteristics of the 2023 Elbistan earthquake
   
 We are part of the broader [Earthquake Science at USU group](https://www.usu.edu/geo/earthquake-science) and regularly collaborate with other faculty and students in the group.
