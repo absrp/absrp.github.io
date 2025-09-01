@@ -29,7 +29,7 @@ Zones of geometrical complexity can act as conditional barriers to rupture propa
 
 <p align="justify">
 
-Paleoseismic evidence from parallel, neighboring faults across the world suggests that fault synchronization and mode switching are frequent behaviors in the geologic record. We model a simple two-fault system to examine the role of the elastic interactions between the faults in establishing these behaviors.
+Paleoseismic evidence from parallel, neighboring faults across the world suggests that fault synchronization and alternation are frequent behaviors in the geologic record. We model a simple two-fault system to examine the role of the elastic interactions between the faults in establishing these behaviors.
 </p>
 
 **Collaborators:** Jean-Philippe Avouac and Alexis Saez (Caltech)
