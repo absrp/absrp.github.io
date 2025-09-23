@@ -26,3 +26,9 @@ author_profile: true
 </ol>
 
 
+## Non peer reviewed
+<ol reversed>
+ <li> Padilla, A. M. R. (2025). Deep down in the fault zone. Science, 389(6766), 1190-1190. </li>
+  <li> Rodriguez Padilla, A. M. (2023). Decoding earthquake mechanics with repeat pass airborne lidar. Nature Reviews Earth & Environment, 4(6), 355-355. </li>
+</ol>
+
