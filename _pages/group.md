@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 ## Current group members
-See the landing page for information for prospective students. 
 
 - Sophia Esquenet (MSc expected 2027) - Rupture propagation mechanics in normal faults
 - Katerina (Kat) Wood (MSc expected 2027) - Off-fault deformation and the supershear transition
