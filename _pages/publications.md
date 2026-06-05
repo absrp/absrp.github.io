@@ -9,9 +9,19 @@ author_profile: true
 
 ⊛ mentored undergraduate student
 
+## Under review
+<ol reversed>
+<li> Rodriguez Padilla, A. M., Saez, A., Avouac, J.P., Earthquake sequence synchronization and alternation driven by quasistatic elastic interactions across faults.   
+</li> 
+
+</ol>
+
+[Pre-print here](https://essopenarchive.org/doi/full/10.22541/essoar.15004063) 
+
 ## In press
 
 <ol reversed>
+  <li> Zuckerman, M., Rodriguez Padilla, A. M., Arrowsmith, J.R., 2026, Quantifying the erasure of earthquakes in desert landscapes. In press, Seismica. </li>
   <li> Rodriguez Padilla, A. M., Oskin, M. E., Brodsky, E. E., Dascher‐Cousineau, K., Herrera, V.⊛, & White, S.⊛ (2024). The Influence of fault geometrical complexity on surface rupture length. Geophysical Research Letters, 51(20), e2024GL109957. </li>
    <li> Hall, S. R., Rodríguez Padilla, A. M., Hodson, K. R., & Audin, L. (2024). Geology and Tectonic Setting of the Cordillera Blanca. In Geoenvironmental Changes in the Cordillera Blanca, Peru (pp. 1-20). Cham: Springer International Publishing. </li>
   <li> Liu‐Zeng, J., Liu, Z., Liu, X., Milliner, C., Rodriguez Padilla, A. M., Xu, S., ... & Shao, Z. (2024). Fault orientation trumps fault maturity in controlling coseismic rupture characteristics of the 2021 Maduo earthquake. AGU Advances, 5(2), e2023AV001134. </li>
