@@ -34,6 +34,8 @@ Paleoseismic evidence from parallel, neighboring faults across the world suggest
 
 **Collaborators:** Jean-Philippe Avouac and Alexis Saez (Caltech)
 
+**Publications:** Rodriguez Padilla et al., in review, [pre-print here](https://essopenarchive.org/doi/full/10.22541/essoar.15004063/v1)
+
 # The distribution of inelastic strain during earthquakes and over multiple earthquake cycles
 
 <center>
@@ -63,6 +65,6 @@ Fracturing and surface displacements during earthquakes threaten infrastructure 
 
 **Collaborators:** Mike Oskin (UC Davis), Ramon Arrowsmith (ASU), graduate student: Mindy Zuckerman (ASU)
 
-**Publications:** Rodriguez Padilla and Oskin (2023)
+**Publications:** Rodriguez Padilla and Oskin (2023), Zuckerman et al. (in press)
 
 
