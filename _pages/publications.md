@@ -7,7 +7,7 @@ author_profile: true
 
  [My google scholar page](https://scholar.google.com/citations?user=eq-YN5sAAAAJ&hl=en)
 
-⊛ mentored undergraduate student
+⊛ mentored undergraduate student, ✢ mentored graduate student
 
 ## Under review
 <ol reversed>
@@ -21,7 +21,7 @@ author_profile: true
 ## In press
 
 <ol reversed>
-  <li> Zuckerman, M., Rodriguez Padilla, A. M., Arrowsmith, J.R., 2026, Quantifying the erasure of earthquakes in desert landscapes. In press, Seismica. </li>
+  <li> Zuckerman, M.✢, Rodriguez Padilla, A. M., Arrowsmith, J.R., 2026, Quantifying the erasure of earthquakes in desert landscapes. In press, Seismica. </li>
   <li> Rodriguez Padilla, A. M., Oskin, M. E., Brodsky, E. E., Dascher‐Cousineau, K., Herrera, V.⊛, & White, S.⊛ (2024). The Influence of fault geometrical complexity on surface rupture length. Geophysical Research Letters, 51(20), e2024GL109957. </li>
    <li> Hall, S. R., Rodríguez Padilla, A. M., Hodson, K. R., & Audin, L. (2024). Geology and Tectonic Setting of the Cordillera Blanca. In Geoenvironmental Changes in the Cordillera Blanca, Peru (pp. 1-20). Cham: Springer International Publishing. </li>
   <li> Liu‐Zeng, J., Liu, Z., Liu, X., Milliner, C., Rodriguez Padilla, A. M., Xu, S., ... & Shao, Z. (2024). Fault orientation trumps fault maturity in controlling coseismic rupture characteristics of the 2021 Maduo earthquake. AGU Advances, 5(2), e2023AV001134. </li>
