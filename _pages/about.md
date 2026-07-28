@@ -17,7 +17,7 @@ Welcome! I am an Assistant Professor of Geosciences at Utah State University. Be
   
 
 <p align="justify">
-You can learn about my work addressing these topics in the research tab. In my free time, I enjoy rock climbing, gravel biking, reading, and befriending dogs. I am also learning how to cross-country and alpine skii.
+You can learn about my work addressing these topics in the research tab. In my free time, I enjoy rock climbing, skiing, reading, and befriending dogs.
 </p>
 
 
