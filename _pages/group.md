@@ -8,7 +8,8 @@ author_profile: true
 ## Current group members
 
 - Sophia Esquenet (MSc expected 2027) - Rupture propagation mechanics in normal faults
-- Katerina (Kat) Wood (MSc expected 2027) - Off-fault deformation and the supershear transition
+- Katerina (Kat) Wood (MSc expected 2027) - Off-fault deformation and supershear rupture
+- Neha Narayan (PhD expected 2031)
 - Leslie Garcia (PhD expected 2029, advised by Dr. Alexis Ault) - Strain localization during the 2023 Elbistan earthquake
   
 We are part of the broader [Earthquake Science at USU group](https://www.usu.edu/geo/earthquake-science) and regularly collaborate with other faculty and students in the group.
