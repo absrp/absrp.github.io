@@ -13,7 +13,7 @@ Welcome! I am an Assistant Professor of Geosciences at Utah State University. Be
 2. Long-term interactions between neighboring faults
 3. The mechanics of supershear earthquakes
 4. The distribution of inelastic strain during earthquakes and over multiple earthquake cycles
-5. The competition between tectonic deformation and surface processes in fault scarp evolution
+5. The competition between tectonic deformation and surface processes in landscape evolution
   
 
 <p align="justify">
