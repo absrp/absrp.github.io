@@ -21,6 +21,7 @@ author_profile: true
 ## In press
 
 <ol reversed>
+ <li> Dascher-Cousineau, K., Burgmann, R., Rodriguez Padilla, A. M., Mallick, R., Taira, T., Rare synchronization among recurring earthquakes. In press in Geophysical Research Letters. </li>
   <li> Zuckerman, M.✢, Padilla, A. M. R., & Arrowsmith, J. R. (2026). Quantifying the erasure of earthquakes in desert landscapes. Seismica, 5(2). </li>
   <li> Rodriguez Padilla, A. M., Oskin, M. E., Brodsky, E. E., Dascher‐Cousineau, K., Herrera, V.⊛, & White, S.⊛ (2024). The Influence of fault geometrical complexity on surface rupture length. Geophysical Research Letters, 51(20), e2024GL109957. </li>
    <li> Hall, S. R., Rodríguez Padilla, A. M., Hodson, K. R., & Audin, L. (2024). Geology and Tectonic Setting of the Cordillera Blanca. In Geoenvironmental Changes in the Cordillera Blanca, Peru (pp. 1-20). Cham: Springer International Publishing. </li>
