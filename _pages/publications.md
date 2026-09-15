@@ -43,3 +43,6 @@ author_profile: true
   <li> Rodriguez Padilla, A. M. (2023). Decoding earthquake mechanics with repeat pass airborne lidar. Nature Reviews Earth & Environment, 4(6), 355-355. </li>
 </ol>
 
+<img width="1124" height="595" alt="image" src="https://github.com/user-attachments/assets/87af050b-960e-49c9-8295-989165d99968" />
+Tension gashes in the San Rafael Swell, Utah.
+
