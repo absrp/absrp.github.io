@@ -6,7 +6,7 @@ redirect_from:
 ---
 
 <p align="justify">
-Welcome! I am an Assistant Professor of Geosciences at Utah State University. Before, I was a postdoc in the Division of Geological and Planetary Sciences at Caltech, working primarily with Dr. Jean-Philippe Avouac. I got my PhD (2023) from the Earth and Planetary Sciences Department at the University of California, Davis, advised by Dr. Mike Oskin. My work relies on using geologic and geodetic data, and numerical models, to understand:
+Welcome! I am an Assistant Professor of Geosciences at Utah State University. My work relies on using geologic and geodetic data, and numerical models, to understand:
 </p>
 
 1. The role of fault geometrical complexity in the mechanics of large earthquakes
