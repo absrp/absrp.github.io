@@ -6,7 +6,7 @@ redirect_from:
 ---
 
 <p align="justify">
-Welcome! I am an Assistant Professor of Geosciences at Utah State University. My work relies on using geologic and geodetic data, and numerical models, to understand:
+Welcome! I am an Assistant Professor of Geosciences at Utah State University. My research group uses geologic and geodetic data, and numerical models, to understand:
 </p>
 
 1. The role of fault geometrical complexity in the mechanics of large earthquakes
