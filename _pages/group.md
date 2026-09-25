@@ -9,17 +9,18 @@ author_profile: true
 
 - Sophia Esquenet (MSc expected 2027) - Rupture propagation mechanics in normal faults
 - Katerina (Kat) Wood (MSc expected 2027) - Off-fault deformation and supershear rupture
-- Neha Narayan (PhD expected 2031)
-- Leslie Garcia (MSc expected 2026, advised by Dr. Alexis Ault) - Strain localization during the 2023 Elbistan earthquake
+- Neha Narayan (PhD expected 2031) - Fault interactions in numerical models, laboratory experiments, and nature
+- Leslie Garcia (MSc expected 2026, advised by Dr. Alexis Ault) - Controls on strain localization during the 2023 Elbistan earthquake
   
-We are part of the broader [Earthquake Science at USU group](https://www.usu.edu/geo/earthquake-science) and regularly collaborate with other faculty and students in the group.
+We are part of the broader [Earthquake Science at USU group](https://www.usu.edu/geo/earthquake-science) and regularly collaborate with other faculty and students in the group. Many of my students end up being co-advised with other faculty in the group in one or more projects. We are also affiliated with [the Utah Earthquake Engineering Research Center](https://engineering.usu.edu/cee/research/labs/utah-earthquake-engineering-center/index).
 
 ## Former group members 
 
 <p align="justify">
-Here's a list of undergraduates that I have mentored in research projects through UC Davis, the State-wide California Earthquake Center, and the McNair program and their current whereabouts as best known:
+Here's a list of undergraduates and graduate students that I have mentored in research projects through UC Davis, the State-wide California Earthquake Center, the McNair program, or through collaborative projects, and their current whereabouts as best known:
 </p>
 
+-  Mindy Zuckerman (PhD 2026, ASU, project co-advised with Ramon Arrowsmith) - postdoc at ASU
 -  Allison Schiffmaier (SCEC SOURCES intern 2025) - undergraduate at UC Davis
 -  Yajaira De Haro (SCEC SOURCES intern 2025) - undergraduate at San Jose State University
 -  Karen Castañeda (UC Davis senior thesis 2023) - MSc student at San Jose State University
