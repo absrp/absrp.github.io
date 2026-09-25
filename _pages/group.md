@@ -24,7 +24,7 @@ Here's a list of undergraduates and graduate students that I have mentored in re
 -  Allison Schiffmaier (SCEC SOURCES intern 2025) - undergraduate at UC Davis
 -  Yajaira De Haro (SCEC SOURCES intern 2025) - undergraduate at San Jose State University
 -  Karen Castañeda (UC Davis senior thesis 2023) - MSc student at San Jose State University
--  Vanessa Herrera (SCEC SOURCES intern 2022-2023) - MSc student at San Diego State University
+-  Vanessa Herrera, MSc (SCEC SOURCES intern 2022-2023) - Geophysicist at Atlas
 -  Lupita Bravo (UC Davis senior thesis and McNair scholar 2021-2022, co-advised with Mike Oskin) - PhD student at UC Riverside
 -  Mercedes Quintana (SCEC SOURCES intern 2021-2022) - MSc student at Georgia Tech
 -  Sophia White (SCEC SOURCES intern 2022) - PhD student at UC Santa Cruz
