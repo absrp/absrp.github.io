@@ -11,9 +11,8 @@ Welcome! I am an Assistant Professor of Geosciences at Utah State University. My
 
 1. The role of fault geometrical complexity in the mechanics of large earthquakes
 2. Long-term interactions between neighboring faults
-3. The mechanics of supershear earthquakes
-4. The distribution of inelastic strain during earthquakes and over multiple earthquake cycles
-5. The competition between tectonic deformation and surface processes in landscape evolution
+3. The distribution of inelastic strain during earthquakes and over multiple earthquake cycles
+4. The competition between tectonic deformation and surface processes in landscape evolution
   
 
 <p align="justify">
