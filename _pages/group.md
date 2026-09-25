@@ -34,7 +34,7 @@ Here's a list of undergraduates and graduate students that I have mentored in re
 -  Michael Hernandez (SCEC SOURCES intern 2021) - engineering geologist for the State of California
 -  Brian Aguilar (SCEC SOURCES intern 2021) - MSc student at Cal State Bakersfield
 -  Leslie Garcia (UC Davis research project 2021) - PhD student at USU with Alexis Ault
--  Sofia Marino, MSc (UC Davis senior thesis 2020, co-advised with Mike Oskin) - geologist in training at HDR 
+-  Sofia Marino, MSc (UC Davis senior thesis 2020, co-advised with Mike Oskin) - GIT at HDR 
 
 
 <img width="640" alt="image" src="https://github.com/user-attachments/assets/c7d4bcfc-05fa-4126-b6d8-35b5e2978666">
