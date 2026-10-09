@@ -7,6 +7,7 @@ redirect_from:
 
 <p align="justify">
 Welcome! I am an Assistant Professor of Geosciences at Utah State University. I am interested in how faults and fault networks behave from seconds to millennial timescales. My group uses geologic and geodetic data together with numerical models to study how fault geometry influences large earthquakes, how neighboring faults interact over many earthquake cycles, and how inelastic strain is distributed around faults. We also study the competition between earthquakes and surface processes in landscape evolution, and the implications of all of this work for seismic hazard.
+
   
 You can learn about my work addressing these topics in the research tab. In my free time, I enjoy rock climbing, skiing, reading, and befriending dogs.
 </p>
