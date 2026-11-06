@@ -17,7 +17,7 @@ We also consider the implications of all of this work for seismic hazard. You ca
 
 </p>
   
-You can learn about my work addressing these topics in the research tab. In my free time, I enjoy rock climbing, skiing, reading, and befriending dogs.
+In my free time, I enjoy rock climbing, skiing, reading, and befriending dogs.
 
 
 Prospective students:
