@@ -8,7 +8,7 @@ redirect_from:
 Welcome! I am an Assistant Professor in the Department of Water, Earth, and Environmental Sciences at Utah State University. I am interested in how faults and fault networks behave from seconds to millennial timescales.
 
 <img width="1141" alt="Normal fault in the Volcanic Tableland" src="https://github.com/absrp/albamrodriguez.github.io/assets/52015046/84a62990-196b-4156-9be6-10dce4c3f664">
-*View of a normal fault in the Volcanic Tableland, Bishop (CA).*
+View of a normal fault in the Volcanic Tableland, Bishop (CA), where I did some of my PhD work.
 
 ## Research
 
