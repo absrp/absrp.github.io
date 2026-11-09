@@ -10,7 +10,7 @@ Welcome! I am an Assistant Professor in the Department of Water, Earth, and Envi
 <img width="1141" alt="Normal fault in the Volcanic Tableland" src="https://github.com/absrp/albamrodriguez.github.io/assets/52015046/84a62990-196b-4156-9be6-10dce4c3f664">
 View of a normal fault in the Volcanic Tableland, Bishop (CA), where I did some of my PhD work.
 
-## Research
+## Research program
 
 My research group combines geologic, geophysical, and geodetic observations of large surface-rupturing earthquakes with numerical models to investigate the mechanics of earthquakes and faulting from seconds to millennia. This work rests on the philosophy that when length and time scales are carefully considered, surface observations can unveil the mechanics of seismogenesis at depth, extending the datasets available for understanding earthquakes much further back than the modern instrumental record. My group is also interested in the competition between tectonic deformation and surface processes in landscape evolution.
 
